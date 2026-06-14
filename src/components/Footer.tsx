@@ -86,7 +86,6 @@ export const Footer = () => {
           className="text-center text-gray-400 text-sm"
         >
           <p>© {currentYear} Felipe Moena Céspedes. Todos los derechos reservados.</p>
-          <p className="mt-2">Diseñado y desarrollado con ❤️</p>
         </motion.div>
       </div>
     </footer>
