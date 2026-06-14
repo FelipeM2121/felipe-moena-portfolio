@@ -20,10 +20,10 @@ export const Hero = () => {
               Felipe Moena
             </h2>
             <p className="text-2xl text-primary font-semibold mb-4">
-              Constructor Civil | Gestión de Proyectos
+              Constructor Civil | Gestión de Proyectos con Data & IA
             </p>
             <p className="text-lg text-gray-600 mb-8">
-              Más de 10 años de experiencia en gestión de proyectos de construcción, energía solar fotovoltaica y telecomunicaciones. Especialista en control de calidad y liderazgo de equipos multidisciplinarios.
+              Más de 10 años de experiencia en gestión de proyectos de construcción, energía solar fotovoltaica y telecomunicaciones. Especialista en control de calidad, liderazgo de equipos multidisciplinarios y aplicación de herramientas de Data Science y Machine Learning para optimizar la gestión de proyectos.
             </p>
             <div className="flex gap-4">
               <button
