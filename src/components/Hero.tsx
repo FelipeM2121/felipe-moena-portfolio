@@ -51,8 +51,8 @@ export const Hero = () => {
                 <p className="text-gray-600">MW en Energía Solar</p>
               </div>
               <div>
-                <p className="text-3xl font-bold text-success">50+</p>
-                <p className="text-gray-600">Proyectos Completados</p>
+                <p className="text-3xl font-bold text-success">6</p>
+                <p className="text-gray-600">Proyectos Destacados</p>
               </div>
             </div>
           </motion.div>
