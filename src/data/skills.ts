@@ -34,6 +34,5 @@ export const certifications = [
   "Microsoft Power BI – Análisis de Datos y Business Intelligence",
   "Microsoft Project – Planificación y Control de Proyectos",
   "Excel Avanzado – Análisis de Datos",
-  "Curso PAC (40 horas) – Prevención de Riesgos",
   "Presupuestos y Análisis de Precios Unitarios (APU)"
 ];
