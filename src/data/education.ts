@@ -20,5 +20,12 @@ export const education: Education[] = [
     institution: "Universidad de Santiago de Chile (USACH)",
     year: "2008",
     description: "Formación técnica en obras civiles y supervisión"
+  },
+  {
+    id: 3,
+    degree: "Bootcamp Python y Machine Learning",
+    institution: "Beca SONDA Skillnest",
+    year: "2026",
+    description: "Formación intensiva en programación Python y modelos de Machine Learning"
   }
 ];
