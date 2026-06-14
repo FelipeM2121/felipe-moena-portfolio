@@ -67,7 +67,7 @@ export const About = () => {
         >
           <h3 className="text-2xl font-bold mb-4">Resumen Profesional</h3>
           <p className="text-lg leading-relaxed">
-            Con más de una década de experiencia en gestión de proyectos de construcción, tengo un track record comprobado en la ejecución de proyectos complejos de múltiples millones de dólares. Mi expertise abarca desde la planificación inicial hasta la supervisión de terminaciones, con énfasis especial en control de calidad, cumplimiento de hitos y optimización de recursos. He liderado equipos multidisciplinarios en entornos desafiantes, implementado sistemas de gestión ISO 9001 y desarrollado dashboards de gestión que han mejorado significativamente la eficiencia operacional. Orientado a resultados, adaptable y con fuerte capacidad de comunicación tanto con ejecutivos como con equipos técnicos.
+            Con más de una década de experiencia en terreno y gestión de proyectos de construcción, tengo un track record comprobado en proyectos complejos de múltiples millones de dólares, desde la planificación hasta la entrega final. Lidero equipos multidisciplinarios, implemento sistemas de gestión ISO 9001 y desarrollo dashboards que mejoran la toma de decisiones. Hoy sumo herramientas de Data Science y Machine Learning para llevar esa gestión un paso más allá.
           </p>
         </motion.div>
       </div>
