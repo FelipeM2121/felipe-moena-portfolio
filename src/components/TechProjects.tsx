@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { techProjects } from '../data/techProjects';
-import { ExternalLink, Code } from 'lucide-react';
+import { ExternalLink, Code, Github } from 'lucide-react';
 
 export const TechProjects = () => {
   return (
@@ -41,15 +41,26 @@ export const TechProjects = () => {
                   ))}
                 </div>
 
-                <a
-                  href={project.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-2 text-sm font-semibold bg-white/20 hover:bg-white/30 transition-colors px-3 py-2 rounded"
-                >
-                  <ExternalLink size={16} />
-                  Ver Proyecto
-                </a>
+                <div className="flex gap-2">
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 inline-flex items-center justify-center gap-2 text-sm font-semibold bg-white/20 hover:bg-white/30 transition-colors px-3 py-2 rounded"
+                  >
+                    <ExternalLink size={16} />
+                    Ver Proyecto
+                  </a>
+                  <a
+                    href={project.github}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex-1 inline-flex items-center justify-center gap-2 text-sm font-semibold bg-white/20 hover:bg-white/30 transition-colors px-3 py-2 rounded"
+                  >
+                    <Github size={16} />
+                    Ver Código
+                  </a>
+                </div>
               </div>
             </motion.div>
           ))}
