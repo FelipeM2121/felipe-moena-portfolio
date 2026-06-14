@@ -27,12 +27,11 @@ export const skills: Skill[] = [
 ];
 
 export const certifications = [
-  "Microsoft Power BI – Análisis de Datos y Business Intelligence",
-  "Microsoft Project – Planificación y Control de Proyectos",
+  "Microsoft Power BI – Análisis de Datos y Business Intelligence, OTEC Capacita",
+  "Microsoft Project – Planificación y Control de Proyectos, OTEC Capacita",
   "Excel Avanzado – Análisis de Datos",
-  "Curso PAC (40 horas)",
-  "Presupuestos y Análisis de Precios Unitarios (APU)",
+  "Curso PAC (40 horas), PUC",
   "Data Science – Beca SONDA Skillnest, 2026",
   "Machine Learning – Beca SONDA Skillnest, 2026",
-  "Primavera P6 – Beca SONDA Skillnest, 2026"
+  "Primavera P6 – PUCV"
 ];
