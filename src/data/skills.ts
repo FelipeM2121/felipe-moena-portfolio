@@ -22,7 +22,7 @@ export const skills: Skill[] = [
   },
   {
     category: "Especialidades Técnicas",
-    items: ["Energía Solar Fotovoltaica", "Edificación Residencial", "Infraestructura Metro", "Telecomunicaciones Mineras", "Hormigón Proyectado", "Excavaciones", "Obra Gruesa", "Terminaciones", "Instalaciones Especiales"]
+    items: ["Parques Solares", "Edificación", "Infraestructura Metro", "Excavaciones", "Obra Gruesa", "Terminaciones", "Instalaciones Especiales"]
   },
   {
     category: "Soft Skills",
