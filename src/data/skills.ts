@@ -32,7 +32,7 @@ export const certifications = [
   "Excel Avanzado – Análisis de Datos",
   "Curso PAC (40 horas)",
   "Presupuestos y Análisis de Precios Unitarios (APU)",
-  "Data Science",
-  "Machine Learning",
-  "Primavera P6"
+  "Data Science – Beca SONDA Skillnest, 2026",
+  "Machine Learning – Beca SONDA Skillnest, 2026",
+  "Primavera P6 – Beca SONDA Skillnest, 2026"
 ];
