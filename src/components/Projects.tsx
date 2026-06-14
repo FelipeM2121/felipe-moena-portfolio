@@ -16,16 +16,14 @@ export const Projects = () => {
           <p className="text-lg text-gray-600">Selección de mis trabajos más relevantes</p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 auto-rows-fr">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-fr">
           {projects.map((project, idx) => (
             <motion.div
               key={project.id}
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: idx * 0.1 }}
-              className={`bg-light rounded-lg overflow-hidden hover:shadow-xl transition-shadow flex flex-col ${
-                idx === 1 ? 'lg:col-span-2 lg:row-span-2' : ''
-              }`}
+              className="bg-light rounded-lg overflow-hidden hover:shadow-xl transition-shadow flex flex-col"
             >
               <div className="bg-gradient-to-br from-primary to-blue-900 p-6 text-white flex-grow flex flex-col">
                 <h3 className="text-2xl font-bold mb-2">{project.title}</h3>
