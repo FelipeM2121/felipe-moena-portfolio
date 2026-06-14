@@ -33,7 +33,7 @@ export const projects: Project[] = [
       "Sistema ISO 9001 implementado",
       "Optimización flujo de caja"
     ],
-    technologies: ["ISO 9001", "Programación", "Presupuestos", "Supervisión Civil"]
+    technologies: ["ISO 9001", "Programación", "Presupuestos", "Supervisión Civil", "Python", "Machine Learning", "Primavera P6"]
   },
   {
     id: 3,
