@@ -12,7 +12,7 @@ export const TechProjects = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
-          <h2 className="text-4xl font-bold text-dark mb-4">Proyectos de Informática</h2>
+          <h2 className="text-4xl font-bold text-dark mb-4">Portafolio de Desarrollo de Data & IA</h2>
           <p className="text-lg text-gray-600">Desarrollos propios desplegados</p>
         </motion.div>
 
