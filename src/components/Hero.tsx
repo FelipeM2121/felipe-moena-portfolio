@@ -38,6 +38,13 @@ export const Hero = () => {
               >
                 Contactar
               </button>
+              <a
+                href="/files/CV_Felipe_Moena.pdf"
+                download
+                className="border-2 border-secondary text-secondary px-8 py-3 rounded-lg font-semibold hover:bg-secondary hover:text-white transition-colors"
+              >
+                Descargar CV
+              </a>
             </div>
 
             {/* Stats */}
