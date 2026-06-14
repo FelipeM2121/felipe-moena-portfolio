@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { projects } from '../data/projects';
-import { CheckCircle, Zap, ExternalLink } from 'lucide-react';
+import { CheckCircle, Zap } from 'lucide-react';
 
 export const Projects = () => {
   return (
@@ -64,18 +64,6 @@ export const Projects = () => {
                       </span>
                     )}
                   </div>
-
-                  {project.link && (
-                    <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 mt-2 text-xs font-semibold bg-white/20 hover:bg-white/30 transition-colors px-3 py-2 rounded"
-                    >
-                      <ExternalLink size={14} />
-                      Ver Proyecto
-                    </a>
-                  )}
                 </div>
               </div>
             </motion.div>

@@ -6,7 +6,6 @@ export interface Project {
   metrics: string[];
   technologies: string[];
   image?: string;
-  link?: string;
 }
 
 export const projects: Project[] = [
@@ -74,18 +73,5 @@ export const projects: Project[] = [
       "Infraestructura Entel instalada"
     ],
     technologies: ["Telecomunicaciones", "Estructuras", "Minería", "Coordinación de Equipos"]
-  },
-  {
-    id: 6,
-    title: "Dashboard de Control de Proyectos P6",
-    description: "Dashboard interactivo desarrollado para visualización y seguimiento de avance de proyectos, integrando indicadores clave de gestión y programación.",
-    role: "Desarrollo de Herramienta de Gestión",
-    metrics: [
-      "Visualización de KPIs en tiempo real",
-      "Seguimiento de avance de proyecto",
-      "Proyecto desplegado y accesible online"
-    ],
-    technologies: ["React", "Dashboard", "Visualización de Datos"],
-    link: "https://felipem2121.github.io/P6_Dashboard/"
   }
 ];
