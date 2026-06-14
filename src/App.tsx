@@ -9,6 +9,7 @@ import { Skills } from './components/Skills';
 import { Education } from './components/Education';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
+import { MessageCircle } from 'lucide-react';
 import './App.css';
 
 function App() {
@@ -34,6 +35,17 @@ function App() {
         <Contact />
       </main>
       <Footer />
+
+      {/* WhatsApp Floating Button */}
+      <a
+        href="https://wa.me/56972181349"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-8 left-8 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition-colors z-40"
+        title="Chatear por WhatsApp"
+      >
+        <MessageCircle size={28} />
+      </a>
 
       {/* Scroll to Top Button */}
       {scrollY > 300 && (
