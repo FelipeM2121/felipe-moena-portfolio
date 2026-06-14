@@ -17,16 +17,16 @@ export const skills: Skill[] = [
     items: ["ISO 9001", "Auditorías Internas", "Sistemas de Gestión", "Protocolos de Recepción", "No Conformidades"]
   },
   {
-    category: "Especialidades",
-    items: ["Energía Solar Fotovoltaica", "Edificación Residencial", "Infraestructura Metro", "Telecomunicaciones Mineras", "Obras Civiles"]
+    category: "Data & IA",
+    items: ["Python", "Machine Learning", "Data Science", "Power BI", "Primavera P6"]
+  },
+  {
+    category: "Especialidades Técnicas",
+    items: ["Energía Solar Fotovoltaica", "Edificación Residencial", "Infraestructura Metro", "Telecomunicaciones Mineras", "Hormigón Proyectado", "Excavaciones", "Obra Gruesa", "Terminaciones", "Instalaciones Especiales"]
   },
   {
     category: "Soft Skills",
     items: ["Liderazgo de Equipos", "Resolución de Problemas", "Comunicación", "Negociación", "Toma de Decisiones"]
-  },
-  {
-    category: "Obras Civiles",
-    items: ["Hormigón Proyectado", "Excavaciones", "Obra Gruesa", "Terminaciones", "Instalaciones Especiales"]
   }
 ];
 
