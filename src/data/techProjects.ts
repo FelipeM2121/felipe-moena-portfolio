@@ -13,5 +13,12 @@ export const techProjects: TechProject[] = [
     description: "Dashboard interactivo desarrollado para visualización y seguimiento de avance de proyectos, integrando indicadores clave de gestión y programación.",
     technologies: ["React", "Dashboard", "Visualización de Datos"],
     link: "https://felipem2121.github.io/P6_Dashboard/"
+  },
+  {
+    id: 2,
+    title: "Hospital Chat AI",
+    description: "Asistente conversacional con inteligencia artificial orientado a la atención y gestión de consultas en el ámbito hospitalario.",
+    technologies: ["Python", "Machine Learning", "Chatbot AI"],
+    link: "https://hospital-chat-ai.netlify.app/"
   }
 ];
