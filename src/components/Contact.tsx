@@ -39,7 +39,7 @@ export const Contact = () => {
           className="text-center mb-12"
         >
           <h2 className="text-4xl font-bold text-dark mb-4">Contacto</h2>
-          <p className="text-lg text-gray-600">¿Interesado en trabajar juntos? Déjame saber</p>
+          <p className="text-lg text-gray-600">¿Interesado en trabajar juntos?</p>
         </motion.div>
 
         <div className="max-w-2xl mx-auto">
