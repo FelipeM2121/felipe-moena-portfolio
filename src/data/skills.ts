@@ -35,5 +35,8 @@ export const certifications = [
   "Microsoft Project – Planificación y Control de Proyectos",
   "Excel Avanzado – Análisis de Datos",
   "Curso PAC (40 horas)",
-  "Presupuestos y Análisis de Precios Unitarios (APU)"
+  "Presupuestos y Análisis de Precios Unitarios (APU)",
+  "Data Science",
+  "Machine Learning",
+  "Primavera P6"
 ];
