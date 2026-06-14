@@ -67,7 +67,7 @@ export const About = () => {
         >
           <h3 className="text-2xl font-bold mb-4">Resumen Profesional</h3>
           <p className="text-lg leading-relaxed">
-            Con más de una década de experiencia en terreno y gestión de proyectos de construcción, tengo un track record comprobado en la ejecución de proyectos complejos de gran envergadura. Mi expertise abarca desde la planificación inicial hasta la supervisión de terminaciones, con énfasis en control de calidad, cumplimiento de hitos y optimización de recursos. He liderado equipos multidisciplinarios en entornos desafiantes e implementado sistemas de gestión ISO 9001. Hoy complemento esta experiencia con herramientas de Data Science y Machine Learning, desarrollando dashboards y análisis que potencian la toma de decisiones.
+            Con más de una década de experiencia en terreno y gestión de proyectos de construcción, tengo un track record comprobado en la ejecución de proyectos complejos de gran envergadura. Mi dominio técnico abarca desde la planificación inicial hasta la supervisión de terminaciones, con énfasis en control de calidad, cumplimiento de hitos y optimización de recursos. He liderado equipos multidisciplinarios en entornos desafiantes e implementado sistemas de gestión ISO 9001. Hoy complemento esta experiencia con herramientas de Data Science y Machine Learning, desarrollando dashboards y análisis que potencian la toma de decisiones.
           </p>
         </motion.div>
       </div>
