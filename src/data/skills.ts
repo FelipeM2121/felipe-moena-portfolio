@@ -6,7 +6,7 @@ export interface Skill {
 export const skills: Skill[] = [
   {
     category: "Software & Tools",
-    items: ["Microsoft Project", "Power BI", "Excel Avanzado", "AutoCAD", "Primavera P6"]
+    items: ["Microsoft Project", "Excel Avanzado", "AutoCAD", "Primavera P6"]
   },
   {
     category: "Gestión de Proyectos",
