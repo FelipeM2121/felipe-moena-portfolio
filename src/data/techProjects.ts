@@ -20,5 +20,12 @@ export const techProjects: TechProject[] = [
     description: "Asistente conversacional con inteligencia artificial orientado a la atención y gestión de consultas en el ámbito hospitalario.",
     technologies: ["Python", "Machine Learning", "Chatbot AI"],
     link: "https://hospital-chat-ai.netlify.app/"
+  },
+  {
+    id: 3,
+    title: "Hospital Buin Paine",
+    description: "Plataforma web desarrollada para la gestión y seguimiento de información del proyecto Hospital Buin Paine.",
+    technologies: ["React", "Web App"],
+    link: "https://hospital-buin-paine.netlify.app/"
   }
 ];
