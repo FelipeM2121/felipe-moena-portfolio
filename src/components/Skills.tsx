@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { skills, certifications } from '../data/skills';
-import { Award, Code, Target, Users } from 'lucide-react';
+import { Award, Code, Target } from 'lucide-react';
 
 const getCategoryIcon = (category: string) => {
   switch (category) {
@@ -10,8 +10,6 @@ const getCategoryIcon = (category: string) => {
       return Target;
     case 'Control de Calidad':
       return Award;
-    case 'Soft Skills':
-      return Users;
     case 'Certificaciones':
       return Award;
     default:
