@@ -26,12 +26,18 @@ export const skills: Skill[] = [
   }
 ];
 
-export const certifications = [
-  "Microsoft Power BI – Análisis de Datos y Business Intelligence, OTEC Capacita",
-  "Microsoft Project – Planificación y Control de Proyectos, OTEC Capacita",
-  "Excel Avanzado – Análisis de Datos",
-  "Curso PAC (40 horas), PUC",
-  "Data Science – Beca SONDA Skillnest, 2026",
-  "Machine Learning – Beca SONDA Skillnest, 2026",
-  "Primavera P6 – PUCV"
+export interface Certification {
+  name: string;
+  issuer?: string;
+  year?: string;
+}
+
+export const certifications: Certification[] = [
+  { name: "Microsoft Power BI – Análisis de Datos y BI", issuer: "OTEC Capacita" },
+  { name: "Microsoft Project – Planificación y Control de Proyectos", issuer: "OTEC Capacita" },
+  { name: "Excel Avanzado – Análisis de Datos" },
+  { name: "Curso PAC (40 horas)", issuer: "PUC" },
+  { name: "Data Science", issuer: "Beca SONDA Skillnest", year: "2026" },
+  { name: "Machine Learning", issuer: "Beca SONDA Skillnest", year: "2026" },
+  { name: "Primavera P6", issuer: "PUCV" }
 ];

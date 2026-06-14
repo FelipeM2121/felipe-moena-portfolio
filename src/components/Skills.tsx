@@ -10,8 +10,6 @@ const getCategoryIcon = (category: string) => {
       return Target;
     case 'Control de Calidad':
       return Award;
-    case 'Certificaciones':
-      return Award;
     default:
       return Code;
   }
@@ -32,7 +30,7 @@ export const Skills = () => {
         </motion.div>
 
         {/* Skills Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
           {skills.map((skillGroup, idx) => {
             const Icon = getCategoryIcon(skillGroup.category);
             return (
@@ -49,53 +47,50 @@ export const Skills = () => {
                   </div>
                   <h3 className="text-xl font-bold text-dark">{skillGroup.category}</h3>
                 </div>
-                <div className="space-y-2">
+                <div className="flex flex-wrap gap-2">
                   {skillGroup.items.map((item, itemIdx) => (
-                    <motion.div
+                    <span
                       key={itemIdx}
-                      initial={{ opacity: 0, x: -10 }}
-                      whileInView={{ opacity: 1, x: 0 }}
-                      transition={{ delay: (idx * 0.1) + (itemIdx * 0.05) }}
-                      className="flex items-center gap-2"
+                      className="bg-primary/10 text-primary text-sm font-medium px-3 py-1 rounded-full"
                     >
-                      <span className="w-2 h-2 bg-secondary rounded-full"></span>
-                      <span className="text-gray-700">{item}</span>
-                    </motion.div>
+                      {item}
+                    </span>
                   ))}
                 </div>
               </motion.div>
             );
           })}
-
-          {/* Certifications card */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5, delay: skills.length * 0.1 }}
-            className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition-shadow"
-          >
-            <div className="flex items-center gap-3 mb-4">
-              <div className="bg-primary/10 p-3 rounded-lg">
-                <Award className="text-primary" size={24} />
-              </div>
-              <h3 className="text-xl font-bold text-dark">Certificaciones</h3>
-            </div>
-            <div className="space-y-2">
-              {certifications.map((cert, idx) => (
-                <motion.div
-                  key={idx}
-                  initial={{ opacity: 0, x: -10 }}
-                  whileInView={{ opacity: 1, x: 0 }}
-                  transition={{ delay: (skills.length * 0.1) + (idx * 0.05) }}
-                  className="flex items-start gap-2"
-                >
-                  <span className="text-secondary mt-0.5">✓</span>
-                  <span className="text-gray-700 text-sm">{cert}</span>
-                </motion.div>
-              ))}
-            </div>
-          </motion.div>
         </div>
+
+        {/* Certifications */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          className="bg-white p-6 rounded-lg shadow"
+        >
+          <div className="flex items-center gap-3 mb-4">
+            <div className="bg-primary/10 p-3 rounded-lg">
+              <Award className="text-primary" size={24} />
+            </div>
+            <h3 className="text-xl font-bold text-dark">Certificaciones</h3>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {certifications.map((cert, idx) => (
+              <div key={idx} className="flex items-start gap-2">
+                <span className="text-secondary mt-0.5">✓</span>
+                <p className="text-sm text-gray-700">
+                  {cert.name}
+                  {(cert.issuer || cert.year) && (
+                    <span className="text-gray-400">
+                      {' '}— {[cert.issuer, cert.year].filter(Boolean).join(', ')}
+                    </span>
+                  )}
+                </p>
+              </div>
+            ))}
+          </div>
+        </motion.div>
       </div>
     </section>
   );

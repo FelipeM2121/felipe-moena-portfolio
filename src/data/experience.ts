@@ -15,6 +15,7 @@ export const experiences: Experience[] = [
     period: "Enero 2024 – Presente",
     category: 'management',
     description: [
+      "Liderazgo de la oficina técnica de programación e instalaciones para el proyecto hospitalario",
       "Coordinación de equipos de instalación de mobiliario hospitalario no clínico",
       "Dashboards de avance físico por recinto, tipología y proveedor con actualización dinámica",
       "Control de contratos y cumplimiento de hitos de entrega e instalación",

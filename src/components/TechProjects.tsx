@@ -12,8 +12,8 @@ export const TechProjects = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
-          <h2 className="text-4xl font-bold text-dark mb-4">Portafolio de Desarrollo de Data & IA</h2>
-          <p className="text-lg text-gray-600">Desarrollos propios desplegados</p>
+          <h2 className="text-4xl font-bold text-dark mb-4">Proyectos de Innovación: Desarrollo Web & IA Aplicada</h2>
+          <p className="text-lg text-gray-600">Aplicaciones propias, desplegadas y con código disponible</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
