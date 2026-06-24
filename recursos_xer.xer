@@ -117,444 +117,444 @@ ERMHDR	15.2	2026-06-17	Project	ADMIN	Usuario	dbxDatabaseNoName	Project Managemen
 %R	26303	4518	540	1	1	N	N	WS_Open	0	HITOS DEL SERVICIO		26134	6	0.88	0.0000	0.0000						EC_Cmp_pct	EE_Rem_hr	Lh81irJ0GEGIbPMrdidukA		
 %T	RSRC
 %F	rsrc_id	parent_rsrc_id	clndr_id	role_id	shift_id	user_id	pobs_id	guid	rsrc_seq_num	email_addr	employee_code	office_phone	other_phone	rsrc_name	rsrc_short_name	rsrc_title_name	def_qty_per_hr	cost_qty_type	ot_factor	active_flag	auto_compute_act_flag	def_cost_qty_link_flag	ot_flag	curr_id	unit_id	rsrc_type	location_id	rsrc_notes	load_tasks_flag	level_flag	last_checksum
-%R	10001		6590						1		MO-1.01			Cuadrilla Topografía - Levantamiento topográfico del terreno	MO-1.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10002		6590						1		MO-1.02			Ingeniero Geotécnico - Estudio de mecánica de suelos (EMS)	MO-1.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10003		6590						1		MAT-1.02			Suministro: Estudio de mecánica de suelos (EMS)	MAT-1.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10004		6590						1		MO-1.03			Arquitecto Proyectista - Planos de arquitectura (plantas, cortes)	MO-1.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10005		6590						1		MAT-1.03			Suministro: Planos de arquitectura (plantas, cortes)	MAT-1.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10006		6590						1		MO-1.04			Ingeniero Calculista - Ingeniería básica estructural	MO-1.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10007		6590						1		MAT-1.04			Suministro: Ingeniería básica estructural	MAT-1.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10008		6590						1		MO-1.05			Ingeniero Calculista - Cálculo estructural galpón metálico	MO-1.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10009		6590						1		MAT-1.05			Suministro: Cálculo estructural galpón metálico	MAT-1.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10010		6590						1		MO-1.06			Ingeniero Calculista - Memoria de cálculo fundaciones	MO-1.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10011		6590						1		MAT-1.06			Suministro: Memoria de cálculo fundaciones	MAT-1.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10012		6590						1		MO-1.07			Proyectista Estructural - Planos de estructuras metálicas	MO-1.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10013		6590						1		MAT-1.07			Suministro: Planos de estructuras metálicas	MAT-1.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10014		6590						1		MO-1.08			Proyectista Eléctrico - Planos de instalaciones eléctricas	MO-1.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10015		6590						1		MAT-1.08			Suministro: Planos de instalaciones eléctricas	MAT-1.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10016		6590						1		MO-1.09			Proyectista Sanitario - Planos instalaciones sanitarias	MO-1.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10017		6590						1		MAT-1.09			Suministro: Planos instalaciones sanitarias	MAT-1.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10018		6590						1		MO-1.10			Proyectista Protección Contra Incendio - Planos sistema contra incendio	MO-1.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10019		6590						1		MAT-1.10			Suministro: Planos sistema contra incendio	MAT-1.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10020		6590						1		MO-1.11			Especialista Técnico - Especificaciones técnicas generales	MO-1.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10021		6590						1		MAT-1.11			Suministro: Especificaciones técnicas generales	MAT-1.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10022		6590						1		MO-1.12			Ingeniero Calculista - Especificaciones técnicas estructurales	MO-1.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10023		6590						1		MAT-1.12			Suministro: Especificaciones técnicas estructurales	MAT-1.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10024		6590						1		MO-1.13			Especialista Técnico - Especificaciones técnicas EESS	MO-1.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10025		6590						1		MAT-1.13			Suministro: Especificaciones técnicas EESS	MAT-1.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10026		6590						1		MO-1.14			Profesional de Presupuesto - Presupuesto oficial APU por partida	MO-1.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10027		6590						1		MAT-1.14			Suministro: Presupuesto oficial APU por partida	MAT-1.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10028		6590						1		MO-1.15			Planificador (Scheduler P6) - Programa oficial del proyecto (P6)	MO-1.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10029		6590						1		MAT-1.15			Suministro: Programa oficial del proyecto (P6)	MAT-1.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10030		6590						1		MO-1.16			Gestor de Permisos - Solicitud permiso de edificación DOM	MO-1.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10031		6590						1		MAT-1.16			Suministro: Solicitud permiso de edificación DOM	MAT-1.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10032		6590						1		MO-1.17			Gestor de Permisos - Tramitación revisión SEC instalaciones EE	MO-1.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10033		6590						1		MAT-1.17			Suministro: Tramitación revisión SEC instalaciones EE	MAT-1.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10034		6590						1		MO-1.18			Gestor de Permisos - Revisión planos SERNAGEOMIN	MO-1.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10035		6590						1		MAT-1.18			Suministro: Revisión planos SERNAGEOMIN	MAT-1.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10036		6590						1		MO-1.19			Gestor de Permisos - Aprobación permiso de edificación	MO-1.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10037		6590						1		MAT-1.19			Suministro: Aprobación permiso de edificación	MAT-1.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10038		6590						1		MO-1.20			Ingeniero de Calidad (QA/QC) - Plan de aseguramiento de calidad (PAC)	MO-1.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10039		6590						1		MAT-1.20			Suministro: Plan de aseguramiento de calidad (PAC)	MAT-1.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10040		6590						1		MO-1.21			Asesor Ambiental - Plan de gestión ambiental	MO-1.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10041		6590						1		MAT-1.21			Suministro: Plan de gestión ambiental	MAT-1.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10042		6590						1		MO-1.22			Experto en Prevención de Riesgos - Plan de gestión de seguridad (PGS)	MO-1.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10043		6590						1		MAT-1.22			Suministro: Plan de gestión de seguridad (PGS)	MAT-1.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10044		6590						1		MO-1.23			Ingeniero de Laboratorio - Protocolo de ensayos de materiales	MO-1.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10045		6590						1		MAT-1.23			Suministro: Protocolo de ensayos de materiales	MAT-1.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10046		6590						1		MO-1.24			Planificador (Scheduler P6) - Informe de línea base del proyecto	MO-1.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10047		6590						1		MAT-1.24			Suministro: Informe de línea base del proyecto	MAT-1.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10048		6590						1		MO-1.25			Jefe de Proyecto - Acta de inicio de obra (kick-off)	MO-1.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10049		6590						1		MAT-1.25			Suministro: Acta de inicio de obra (kick-off)	MAT-1.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10050		6590						1		MO-2.01			Cuadrilla Instalación de Faenas - Instalación de faenas (bodega, casino, SSHH)	MO-2.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10051		6590						1		MAT-2.01			Suministro: Instalación de faenas (bodega, casino, SSHH)	MAT-2.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10052		6590						1		MO-2.02			Cuadrilla Instalación de Faenas - Cierre perimetral provisional de obra	MO-2.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10053		6590						1		MAT-2.02			Suministro: Cierre perimetral provisional de obra	MAT-2.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10054		6590						1		MO-2.03			Cuadrilla Instalación de Faenas - Cartel de obra	MO-2.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10055		6590						1		MAT-2.03			Suministro: Cartel de obra	MAT-2.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10056		6590						1		MO-2.04			Cuadrilla Movimiento de Tierras - Desbroce y limpieza del terreno	MO-2.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10057		6590						1		MAT-2.04			Suministro: Desbroce y limpieza del terreno	MAT-2.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10058		6590						1		EQ-2.04			Bulldozer / Retroexcavadora - Desbroce y limpieza del terreno	EQ-2.04		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10059		6590						1		MO-2.05			Cuadrilla Topografía - Topografía y trazado ejes de fundaciones	MO-2.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10060		6590						1		MAT-2.05			Suministro: Topografía y trazado ejes de fundaciones	MAT-2.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10061		6590						1		MO-2.06			Cuadrilla Movimiento de Tierras - Excavación mecánica para fundaciones	MO-2.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10062		6590						1		MAT-2.06			Suministro: Excavación mecánica para fundaciones	MAT-2.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10063		6590						1		EQ-2.06			Retroexcavadora - Excavación mecánica para fundaciones	EQ-2.06		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10064		6590						1		MO-2.07			Cuadrilla Movimiento de Tierras - Excavación manual para correcciones	MO-2.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10065		6590						1		MO-2.08			Cuadrilla Movimiento de Tierras - Retiro de excedentes de excavación	MO-2.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10066		6590						1		MAT-2.08			Suministro: Retiro de excedentes de excavación	MAT-2.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10067		6590						1		EQ-2.08			Retroexcavadora - Retiro de excedentes de excavación	EQ-2.08		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10068		6590						1		MO-2.09			Cuadrilla Movimiento de Tierras - Relleno y compactación con material seleccionado	MO-2.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10069		6590						1		MAT-2.09			Suministro: Relleno y compactación con material seleccionado	MAT-2.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10070		6590						1		EQ-2.09			Rodillo / Placa compactadora - Relleno y compactación con material seleccionado	EQ-2.09		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10071		6590						1		MO-2.10			Cuadrilla Hormigonado (Concretero) - Hormigón de limpieza H-10 e=5cm	MO-2.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10072		6590						1		MAT-2.10			Suministro: Hormigón de limpieza H-10 e=5cm	MAT-2.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10073		6590						1		MO-2.11			Maestro Enfierrador - Enfierradura zapatas (kg)	MO-2.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10074		6590						1		MAT-2.11			Suministro: Enfierradura zapatas (kg)	MAT-2.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10075		6590						1		MO-2.12			Carpintero de Obra (Moldajes) - Moldaje zapatas aisladas	MO-2.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10076		6590						1		MO-2.13			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 zapatas aisladas	MO-2.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10077		6590						1		MAT-2.13			Suministro: Hormigón H-30 zapatas aisladas	MAT-2.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10078		6590						1		MO-2.14			Maestro Enfierrador - Enfierradura cadena de fundación	MO-2.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10079		6590						1		MAT-2.14			Suministro: Enfierradura cadena de fundación	MAT-2.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10080		6590						1		MO-2.15			Carpintero de Obra (Moldajes) - Moldaje cadena de fundación	MO-2.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10081		6590						1		MO-2.16			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 cadena de fundación	MO-2.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10082		6590						1		MAT-2.16			Suministro: Hormigón H-30 cadena de fundación	MAT-2.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10083		6590						1		MO-2.17			Maestro Montajista - Pernos de anclaje columnas (set)	MO-2.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10084		6590						1		MAT-2.17			Suministro: Pernos de anclaje columnas (set)	MAT-2.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10085		6590						1		MO-2.18			Maestro Montajista - Nivelación y alineación placas base	MO-2.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10086		6590						1		MAT-2.18			Suministro: Nivelación y alineación placas base	MAT-2.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10087		6590						1		MO-2.19			Maestro Montajista - Grouting placas base columnas	MO-2.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10088		6590						1		MAT-2.19			Suministro: Grouting placas base columnas	MAT-2.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10089		6590						1		MO-2.20			Cuadrilla Movimiento de Tierras - Relleno interior con ripio compactado e=20cm	MO-2.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10090		6590						1		MAT-2.20			Suministro: Relleno interior con ripio compactado e=20cm	MAT-2.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10091		6590						1		EQ-2.20			Rodillo / Placa compactadora - Relleno interior con ripio compactado e=20cm	EQ-2.20		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10092		6590						1		MO-2.21			Cuadrilla Movimiento de Tierras - Compactación de subrasante (95% Proctor)	MO-2.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10093		6590						1		MAT-2.21			Suministro: Compactación de subrasante (95% Proctor)	MAT-2.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10094		6590						1		EQ-2.21			Rodillo / Placa compactadora - Compactación de subrasante (95% Proctor)	EQ-2.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10095		6590						1		MO-2.22			Cuadrilla Movimiento de Tierras - Sub-base granular e=15cm compactada	MO-2.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10096		6590						1		MAT-2.22			Suministro: Sub-base granular e=15cm compactada	MAT-2.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10097		6590						1		EQ-2.22			Rodillo / Placa compactadora - Sub-base granular e=15cm compactada	EQ-2.22		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10098		6590						1		MO-2.23			Maestro Enfierrador - Enfierradura losa malla ø8@20cm	MO-2.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10099		6590						1		MAT-2.23			Suministro: Enfierradura losa malla ø8@20cm	MAT-2.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10100		6590						1		MO-2.24			Carpintero de Obra (Moldajes) - Moldaje perimetral losa	MO-2.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10101		6590						1		MAT-2.24			Suministro: Moldaje perimetral losa	MAT-2.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10102		6590						1		MO-2.25			Instalador Sanitario (EESS) - Instalación tuberías embutidas EESS antes de losa	MO-2.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10103		6590						1		MAT-2.25			Suministro: Instalación tuberías embutidas EESS antes de losa	MAT-2.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10104		6590						1		EQ-2.25			Camión hormigonera + regla vibratoria - Instalación tuberías embutidas EESS antes de losa	EQ-2.25		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10105		6590						1		MO-2.26			Instalador Eléctrico (EE) - Instalación ductos eléctricos embutidos	MO-2.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10106		6590						1		MAT-2.26			Suministro: Instalación ductos eléctricos embutidos	MAT-2.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10107		6590						1		MO-2.27			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 losa e=15cm	MO-2.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10108		6590						1		MAT-2.27			Suministro: Hormigón H-30 losa e=15cm	MAT-2.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10109		6590						1		EQ-2.27			Camión hormigonera + regla vibratoria - Hormigón H-30 losa e=15cm	EQ-2.27		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10110		6590						1		MO-2.28			Cuadrilla Terminaciones de Losa - Endurecedor superficial minerálico	MO-2.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10111		6590						1		MAT-2.28			Suministro: Endurecedor superficial minerálico	MAT-2.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10112		6590						1		EQ-2.28			Equipo de pulido (helicóptero) - Endurecedor superficial minerálico	EQ-2.28		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10113		6590						1		MO-2.29			Cuadrilla Terminaciones de Losa - Curado de losa con membrana	MO-2.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10114		6590						1		MAT-2.29			Suministro: Curado de losa con membrana	MAT-2.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10115		6590						1		MO-2.30			Cuadrilla Terminaciones de Losa - Corte de juntas de dilatación	MO-2.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10116		6590						1		MAT-2.30			Suministro: Corte de juntas de dilatación	MAT-2.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10117		6590						1		MO-2.31			Cuadrilla Terminaciones de Losa - Sellado de juntas con poliuretano	MO-2.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10118		6590						1		MAT-2.31			Suministro: Sellado de juntas con poliuretano	MAT-2.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10119		6590						1		MO-2.32			Cuadrilla Hormigonado (Concretero) - Pavimento exterior acceso hormigón H-25 e=12cm	MO-2.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10120		6590						1		MAT-2.32			Suministro: Pavimento exterior acceso hormigón H-25 e=12cm	MAT-2.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10121		6590						1		EQ-2.32			Camión hormigonera + vibrador - Pavimento exterior acceso hormigón H-25 e=12cm	EQ-2.32		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10122		6590						1		MO-2.33			Cuadrilla Hormigonado (Concretero) - Bordillo hormigón prefabricado	MO-2.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10123		6590						1		MAT-2.33			Suministro: Bordillo hormigón prefabricado	MAT-2.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10124		6590						1		MO-2.34			Cuadrilla Hormigonado (Concretero) - Veredas peatonales H-25	MO-2.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10125		6590						1		MAT-2.34			Suministro: Veredas peatonales H-25	MAT-2.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10126		6590						1		EQ-2.34			Camión hormigonera + vibrador - Veredas peatonales H-25	EQ-2.34		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10127		6590						1		MO-2.35			Cuadrilla Hormigonado (Concretero) - Hormigón cierre perimetral inferior (soleo)	MO-2.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10128		6590						1		MAT-2.35			Suministro: Hormigón cierre perimetral inferior (soleo)	MAT-2.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10129		6590						1		EQ-2.35			Camión hormigonera + vibrador - Hormigón cierre perimetral inferior (soleo)	EQ-2.35		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10130		6590						1		MO-2.36			Maestro Sanitario / Obras - Foso de inspección instalaciones	MO-2.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10131		6590						1		MAT-2.36			Suministro: Foso de inspección instalaciones	MAT-2.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10132		6590						1		EQ-2.36			Retroexcavadora menor - Foso de inspección instalaciones	EQ-2.36		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10133		6590						1		MO-2.37			Maestro Sanitario / Obras - Cámara de inspección aguas lluvia	MO-2.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10134		6590						1		MAT-2.37			Suministro: Cámara de inspección aguas lluvia	MAT-2.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10135		6590						1		EQ-2.37			Retroexcavadora menor - Cámara de inspección aguas lluvia	EQ-2.37		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10136		6590						1		MO-2.38			Maestro Sanitario / Obras - Canaleta aguas lluvia perimetral	MO-2.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10137		6590						1		MAT-2.38			Suministro: Canaleta aguas lluvia perimetral	MAT-2.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10138		6590						1		MO-2.39			Maestro Sanitario / Obras - Red de alcantarillado pluvial enterrada	MO-2.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10139		6590						1		MAT-2.39			Suministro: Red de alcantarillado pluvial enterrada	MAT-2.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10140		6590						1		MO-2.40			Maestro Sanitario / Obras - Colector de agua lluvia (bajadas techo)	MO-2.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10141		6590						1		MAT-2.40			Suministro: Colector de agua lluvia (bajadas techo)	MAT-2.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10142		6590						1		MO-2.41			Pintor Industrial (Epóxico) - Pintura suelo epóxico 2 manos demarcación	MO-2.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10143		6590						1		MAT-2.41			Suministro: Pintura suelo epóxico 2 manos demarcación	MAT-2.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10144		6590						1		MO-2.42			Pintor Industrial (Epóxico) - Demarcación zonas de tránsito y almacén	MO-2.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10145		6590						1		MAT-2.42			Suministro: Demarcación zonas de tránsito y almacén	MAT-2.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10146		6590						1		MO-2.43			Cuadrilla Hormigonado (Concretero) - Ensayo compresión hormigón (serie 3 probetas)	MO-2.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10147		6590						1		MAT-2.43			Suministro: Ensayo compresión hormigón (serie 3 probetas)	MAT-2.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10148		6590						1		EQ-2.43			Camión hormigonera + vibrador - Ensayo compresión hormigón (serie 3 probetas)	EQ-2.43		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10149		6590						1		MO-2.44			Cuadrilla Movimiento de Tierras - Ensayo compactación Proctor modificado	MO-2.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10150		6590						1		MAT-2.44			Suministro: Ensayo compactación Proctor modificado	MAT-2.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10151		6590						1		EQ-2.44			Rodillo / Placa compactadora - Ensayo compactación Proctor modificado	EQ-2.44		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10152		6590						1		MO-3.01			Maestro Estructurero (Taller) - Fabricación columnas perfil HEB 260	MO-3.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10153		6590						1		MAT-3.01			Suministro: Fabricación columnas perfil HEB 260	MAT-3.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10154		6590						1		MO-3.02			Maestro Estructurero (Taller) - Fabricación vigas principales reticuladas	MO-3.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10155		6590						1		MAT-3.02			Suministro: Fabricación vigas principales reticuladas	MAT-3.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10156		6590						1		MO-3.03			Maestro Estructurero (Taller) - Fabricación vigas secundarias IPE 240	MO-3.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10157		6590						1		MAT-3.03			Suministro: Fabricación vigas secundarias IPE 240	MAT-3.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10158		6590						1		MO-3.04			Maestro Estructurero (Taller) - Fabricación viguetas de cubierta	MO-3.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10159		6590						1		MAT-3.04			Suministro: Fabricación viguetas de cubierta	MAT-3.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10160		6590						1		MO-3.05			Maestro Estructurero (Taller) - Fabricación correas de techo C200	MO-3.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10161		6590						1		MAT-3.05			Suministro: Fabricación correas de techo C200	MAT-3.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10162		6590						1		MO-3.06			Maestro Estructurero (Taller) - Fabricación tirantes y cruces de San Andrés	MO-3.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10163		6590						1		MAT-3.06			Suministro: Fabricación tirantes y cruces de San Andrés	MAT-3.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10164		6590						1		MO-3.07			Maestro Estructurero (Taller) - Fabricación portones ingreso 5x6m	MO-3.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10165		6590						1		MAT-3.07			Suministro: Fabricación portones ingreso 5x6m	MAT-3.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10166		6590						1		MO-3.08			Maestro Estructurero (Taller) - Fabricación portón salida emergencia 3x4m	MO-3.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10167		6590						1		MAT-3.08			Suministro: Fabricación portón salida emergencia 3x4m	MAT-3.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10168		6590						1		MO-3.09			Maestro Estructurero (Taller) - Fabricación plataformas de acceso acero	MO-3.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10169		6590						1		MAT-3.09			Suministro: Fabricación plataformas de acceso acero	MAT-3.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10170		6590						1		MO-3.10			Maestro Estructurero (Taller) - Fabricación escaleras metálicas interiores	MO-3.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10171		6590						1		MAT-3.10			Suministro: Fabricación escaleras metálicas interiores	MAT-3.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10172		6590						1		MO-3.11			Pintor Industrial (Anticorrosivo) - Granallado y pintura anticorrosiva 2 manos	MO-3.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10173		6590						1		MAT-3.11			Suministro: Granallado y pintura anticorrosiva 2 manos	MAT-3.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10174		6590						1		EQ-3.11			Equipo de granallado + compresor - Granallado y pintura anticorrosiva 2 manos	EQ-3.11		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10175		6590						1		MO-3.12			Pintor Industrial - Pintura esmalte color final RAL 7035	MO-3.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10176		6590						1		MAT-3.12			Suministro: Pintura esmalte color final RAL 7035	MAT-3.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10177		6590						1		EQ-3.12			Equipo airless + andamios - Pintura esmalte color final RAL 7035	EQ-3.12		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10178		6590						1		MO-3.13			Cuadrilla de Transporte/Carga - Transporte de estructura a obra	MO-3.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10179		6590						1		MAT-3.13			Suministro: Transporte de estructura a obra	MAT-3.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10180		6590						1		EQ-3.13			Camión cama baja - Transporte de estructura a obra	EQ-3.13		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10181		6590						1		MO-3.14			Operador de Maquinaria - Habilitación acceso maquinaria pesada a galpón	MO-3.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10182		6590						1		MAT-3.14			Suministro: Habilitación acceso maquinaria pesada a galpón	MAT-3.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10183		6590						1		EQ-3.14			Maquinaria movimiento de tierra - Habilitación acceso maquinaria pesada a galpón	EQ-3.14		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10184		6590						1		MO-3.15			Cuadrilla de Montaje (Rigger) - Montaje columnas principales	MO-3.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10185		6590						1		MAT-3.15			Suministro: Montaje columnas principales	MAT-3.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10186		6590						1		EQ-3.15			Camión grúa / grúa móvil - Montaje columnas principales	EQ-3.15		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10187		6590						1		MO-3.16			Cuadrilla de Montaje (Rigger) - Montaje vigas principales	MO-3.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10188		6590						1		MAT-3.16			Suministro: Montaje vigas principales	MAT-3.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10189		6590						1		EQ-3.16			Camión grúa / grúa móvil - Montaje vigas principales	EQ-3.16		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10190		6590						1		MO-3.17			Cuadrilla de Montaje (Rigger) - Montaje vigas secundarias	MO-3.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10191		6590						1		MAT-3.17			Suministro: Montaje vigas secundarias	MAT-3.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10192		6590						1		EQ-3.17			Camión grúa / grúa móvil - Montaje vigas secundarias	EQ-3.17		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10193		6590						1		MO-3.18			Cuadrilla de Montaje (Rigger) - Montaje viguetas de cubierta	MO-3.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10194		6590						1		MAT-3.18			Suministro: Montaje viguetas de cubierta	MAT-3.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10195		6590						1		EQ-3.18			Camión grúa / grúa móvil - Montaje viguetas de cubierta	EQ-3.18		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10196		6590						1		MO-3.19			Cuadrilla de Montaje (Rigger) - Montaje correas de techo	MO-3.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10197		6590						1		MAT-3.19			Suministro: Montaje correas de techo	MAT-3.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10198		6590						1		EQ-3.19			Camión grúa / grúa móvil - Montaje correas de techo	EQ-3.19		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10199		6590						1		MO-3.20			Cuadrilla de Montaje (Rigger) - Montaje tirantes y arriostramiento	MO-3.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10200		6590						1		MO-3.21			Cuadrilla de Montaje (Rigger) - Montaje portones de acceso vehicular	MO-3.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10201		6590						1		MAT-3.21			Suministro: Montaje portones de acceso vehicular	MAT-3.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10202		6590						1		EQ-3.21			Camión grúa / grúa móvil - Montaje portones de acceso vehicular	EQ-3.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10203		6590						1		MO-3.22			Cuadrilla de Montaje (Rigger) - Montaje puertas de emergencia	MO-3.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10204		6590						1		MAT-3.22			Suministro: Montaje puertas de emergencia	MAT-3.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10205		6590						1		EQ-3.22			Camión grúa / grúa móvil - Montaje puertas de emergencia	EQ-3.22		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10206		6590						1		MO-3.23			Cuadrilla de Montaje (Rigger) - Montaje plataformas y escaleras	MO-3.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10207		6590						1		MAT-3.23			Suministro: Montaje plataformas y escaleras	MAT-3.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10208		6590						1		EQ-3.23			Camión grúa / grúa móvil - Montaje plataformas y escaleras	EQ-3.23		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10209		6590						1		MO-3.24			Cuadrilla Cubierta y Cerramientos - Cubierta panel sandwich TR-5 e=50mm	MO-3.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10210		6590						1		MAT-3.24			Suministro: Cubierta panel sandwich TR-5 e=50mm	MAT-3.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10211		6590						1		EQ-3.24			Plataforma elevadora (manlift) - Cubierta panel sandwich TR-5 e=50mm	EQ-3.24		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10212		6590						1		MO-3.25			Cuadrilla Cubierta y Cerramientos - Cierre lateral panel metálico e=40mm	MO-3.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10213		6590						1		MAT-3.25			Suministro: Cierre lateral panel metálico e=40mm	MAT-3.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10214		6590						1		EQ-3.25			Plataforma elevadora (manlift) - Cierre lateral panel metálico e=40mm	EQ-3.25		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10215		6590						1		MO-3.26			Cuadrilla Cubierta y Cerramientos - Frente fachada con panel metálico	MO-3.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10216		6590						1		MAT-3.26			Suministro: Frente fachada con panel metálico	MAT-3.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10217		6590						1		EQ-3.26			Plataforma elevadora (manlift) - Frente fachada con panel metálico	EQ-3.26		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10218		6590						1		MO-3.27			Cuadrilla Cubierta y Cerramientos - Instalación canaletas y bajadas de aguas lluvia	MO-3.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10219		6590						1		MAT-3.27			Suministro: Instalación canaletas y bajadas de aguas lluvia	MAT-3.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10220		6590						1		MO-3.28			Cuadrilla Cubierta y Cerramientos - Instalación cumbreras y remates perimetrales	MO-3.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10221		6590						1		MAT-3.28			Suministro: Instalación cumbreras y remates perimetrales	MAT-3.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10222		6590						1		MO-3.29			Cuadrilla Cubierta y Cerramientos - Instalación claraboyas translúcidas	MO-3.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10223		6590						1		MAT-3.29			Suministro: Instalación claraboyas translúcidas	MAT-3.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10224		6590						1		MO-3.30			Cuadrilla Cubierta y Cerramientos - Instalación rejillas de ventilación cenital	MO-3.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10225		6590						1		MAT-3.30			Suministro: Instalación rejillas de ventilación cenital	MAT-3.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10226		6590						1		MO-3.31			Cuadrilla Cubierta y Cerramientos - Sellado de encuentros cubierta-muro	MO-3.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10227		6590						1		MAT-3.31			Suministro: Sellado de encuentros cubierta-muro	MAT-3.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10228		6590						1		MO-3.32			Cuadrilla Cubierta y Cerramientos - Barrera de vapor bajo cubierta	MO-3.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10229		6590						1		MAT-3.32			Suministro: Barrera de vapor bajo cubierta	MAT-3.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10230		6590						1		MO-3.33			Cuadrilla Cubierta y Cerramientos - Aislación térmica cubierta lana mineral e=80mm	MO-3.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10231		6590						1		MAT-3.33			Suministro: Aislación térmica cubierta lana mineral e=80mm	MAT-3.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10232		6590						1		MO-3.34			Cuadrilla Aislación - Aislación muros laterales e=50mm	MO-3.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10233		6590						1		MAT-3.34			Suministro: Aislación muros laterales e=50mm	MAT-3.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10234		6590						1		MO-3.35			Cuadrilla Cubierta y Cerramientos - Cierre inferior muro con placa fibrocemento	MO-3.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10235		6590						1		MAT-3.35			Suministro: Cierre inferior muro con placa fibrocemento	MAT-3.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10236		6590						1		MO-3.36			Cuadrilla Cubierta y Cerramientos - Instalación ventanas fachada (0.8x1.0m)	MO-3.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10237		6590						1		MAT-3.36			Suministro: Instalación ventanas fachada (0.8x1.0m)	MAT-3.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10238		6590						1		MO-3.37			Cuadrilla Cubierta y Cerramientos - Instalación ventanas laterales (0.6x0.8m)	MO-3.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10239		6590						1		MAT-3.37			Suministro: Instalación ventanas laterales (0.6x0.8m)	MAT-3.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10240		6590						1		MO-3.38			Pintor Industrial - Pintura exterior de fachadas	MO-3.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10241		6590						1		MAT-3.38			Suministro: Pintura exterior de fachadas	MAT-3.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10242		6590						1		EQ-3.38			Equipo airless + andamios - Pintura exterior de fachadas	EQ-3.38		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10243		6590						1		MO-3.39			Pintor Industrial - Pintura interior galpón (vigas y columnas)	MO-3.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10244		6590						1		MAT-3.39			Suministro: Pintura interior galpón (vigas y columnas)	MAT-3.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10245		6590						1		EQ-3.39			Equipo airless + andamios - Pintura interior galpón (vigas y columnas)	EQ-3.39		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10246		6590						1		MO-3.40			Cuadrilla de Aseo - Limpieza post montaje estructura	MO-3.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10247		6590						1		MAT-3.40			Suministro: Limpieza post montaje estructura	MAT-3.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10248		6590						1		MO-3.41			Inspector QA/QC Estructuras - Apriete y revisión pernos de alta resistencia	MO-3.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10249		6590						1		MAT-3.41			Suministro: Apriete y revisión pernos de alta resistencia	MAT-3.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10250		6590						1		MO-3.42			Inspector QA/QC Estructuras - Inspección radiográfica soldaduras críticas	MO-3.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10251		6590						1		MAT-3.42			Suministro: Inspección radiográfica soldaduras críticas	MAT-3.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10252		6590						1		EQ-3.42			Equipo de gammagrafía industrial - Inspección radiográfica soldaduras críticas	EQ-3.42		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10253		6590						1		MO-3.43			Inspector QA/QC Estructuras - Prueba de carga estructura (1.5x sobrecarga)	MO-3.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10254		6590						1		MAT-3.43			Suministro: Prueba de carga estructura (1.5x sobrecarga)	MAT-3.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10255		6590						1		EQ-3.43			Instrumental de medición/topografía - Prueba de carga estructura (1.5x sobrecarga)	EQ-3.43		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10256		6590						1		MO-3.44			Cuadrilla de Montaje (Rigger) - Control dimensional post montaje	MO-3.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10257		6590						1		MAT-3.44			Suministro: Control dimensional post montaje	MAT-3.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10258		6590						1		EQ-3.44			Camión grúa / grúa móvil - Control dimensional post montaje	EQ-3.44		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10259		6590						1		MO-3.45			Proyectista (As-Built) - Entrega de planos as-built estructura	MO-3.45		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10260		6590						1		MAT-3.45			Suministro: Entrega de planos as-built estructura	MAT-3.45		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10261		6590						1		MO-4.01			Maestro Eléctrico - Tablero general BT 400A con protecciones	MO-4.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10262		6590						1		MAT-4.01			Suministro: Tablero general BT 400A con protecciones	MAT-4.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10263		6590						1		MO-4.02			Maestro Eléctrico - Tablero de alumbrado y tomacorrientes	MO-4.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10264		6590						1		MAT-4.02			Suministro: Tablero de alumbrado y tomacorrientes	MAT-4.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10265		6590						1		MO-4.03			Maestro Eléctrico - Tablero de fuerza motores	MO-4.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10266		6590						1		MAT-4.03			Suministro: Tablero de fuerza motores	MAT-4.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10267		6590						1		MO-4.04			Maestro Eléctrico - Canalización conduit EMT 3 pulg para circuito principal	MO-4.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10268		6590						1		MAT-4.04			Suministro: Canalización conduit EMT 3 pulg para circuito principal	MAT-4.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10269		6590						1		MO-4.05			Maestro Eléctrico - Canalización conduit EMT 1 pulg alumbrado	MO-4.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10270		6590						1		MAT-4.05			Suministro: Canalización conduit EMT 1 pulg alumbrado	MAT-4.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10271		6590						1		MO-4.06			Maestro Eléctrico - Canalización conduit EMT 1/2 pulg tomacorrientes	MO-4.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10272		6590						1		MAT-4.06			Suministro: Canalización conduit EMT 1/2 pulg tomacorrientes	MAT-4.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10273		6590						1		MO-4.07			Maestro Eléctrico - Cable poder 4x16mm² (alimentador principal)	MO-4.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10274		6590						1		MAT-4.07			Suministro: Cable poder 4x16mm² (alimentador principal)	MAT-4.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10275		6590						1		MO-4.08			Maestro Eléctrico - Cable XLPE 4x6mm² circuitos secundarios	MO-4.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10276		6590						1		MAT-4.08			Suministro: Cable XLPE 4x6mm² circuitos secundarios	MAT-4.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10277		6590						1		MO-4.09			Maestro Eléctrico - Cable XLPE 3x2.5mm² alumbrado	MO-4.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10278		6590						1		MAT-4.09			Suministro: Cable XLPE 3x2.5mm² alumbrado	MAT-4.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10279		6590						1		MO-4.10			Maestro Eléctrico - Luminaria LED industrial highbay 200W UFO	MO-4.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10280		6590						1		MAT-4.10			Suministro: Luminaria LED industrial highbay 200W UFO	MAT-4.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10281		6590						1		MO-4.11			Maestro Eléctrico - Luminaria LED fluorescente 2x36W oficinas	MO-4.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10282		6590						1		MAT-4.11			Suministro: Luminaria LED fluorescente 2x36W oficinas	MAT-4.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10283		6590						1		MO-4.12			Maestro Eléctrico - Luminaria exterior LED 150W con poste	MO-4.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10284		6590						1		MAT-4.12			Suministro: Luminaria exterior LED 150W con poste	MAT-4.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10285		6590						1		MO-4.13			Maestro Eléctrico - Interruptores, tomacorrientes y accesorios	MO-4.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10286		6590						1		MAT-4.13			Suministro: Interruptores, tomacorrientes y accesorios	MAT-4.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10287		6590						1		MO-4.14			Maestro Eléctrico - Sistema de puesta a tierra (red malla)	MO-4.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10288		6590						1		MAT-4.14			Suministro: Sistema de puesta a tierra (red malla)	MAT-4.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10289		6590						1		MO-4.15			Inspector Eléctrico (SEC) - Medición de resistencia de tierra (<5?)	MO-4.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10290		6590						1		MAT-4.15			Suministro: Medición de resistencia de tierra (<5?)	MAT-4.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10291		6590						1		EQ-4.15			Telurímetro - Medición de resistencia de tierra (<5?)	EQ-4.15		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10292		6590						1		MO-4.16			Maestro Eléctrico - Sistema UPS oficina administración 3KVA	MO-4.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10293		6590						1		MAT-4.16			Suministro: Sistema UPS oficina administración 3KVA	MAT-4.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10294		6590						1		EQ-4.16			Equipos y herramientas menores - Sistema UPS oficina administración 3KVA	EQ-4.16		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10295		6590						1		MO-4.17			Maestro Eléctrico - Generador de emergencia 50KVA (arriendo)	MO-4.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10296		6590						1		MAT-4.17			Suministro: Generador de emergencia 50KVA (arriendo)	MAT-4.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10297		6590						1		EQ-4.17			Generador 50KVA (arriendo) - Generador de emergencia 50KVA (arriendo)	EQ-4.17		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10298		6590						1		MO-4.18			Inspector Eléctrico (SEC) - Revisión SEC y emisión informe	MO-4.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10299		6590						1		MAT-4.18			Suministro: Revisión SEC y emisión informe	MAT-4.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10300		6590						1		MO-4.19			Maestro Gasfíter / Sanitario - Red AP enterrada PVC PN10 ø63mm	MO-4.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10301		6590						1		MAT-4.19			Suministro: Red AP enterrada PVC PN10 ø63mm	MAT-4.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10302		6590						1		MO-4.20			Maestro Gasfíter / Sanitario - Red AP interior PVC PN10 ø25mm	MO-4.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10303		6590						1		MAT-4.20			Suministro: Red AP interior PVC PN10 ø25mm	MAT-4.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10304		6590						1		MO-4.21			Maestro Gasfíter / Sanitario - Artefactos sanitarios (WC+lavamanos+urinario)	MO-4.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10305		6590						1		MAT-4.21			Suministro: Artefactos sanitarios (WC+lavamanos+urinario)	MAT-4.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10306		6590						1		MO-4.22			Maestro Gasfíter / Sanitario - Instalación duchas SSHH personal	MO-4.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10307		6590						1		MAT-4.22			Suministro: Instalación duchas SSHH personal	MAT-4.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10308		6590						1		MO-4.23			Maestro Gasfíter / Sanitario - Red alcantarillado interior PVC ø110mm	MO-4.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10309		6590						1		MAT-4.23			Suministro: Red alcantarillado interior PVC ø110mm	MAT-4.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10310		6590						1		MO-4.24			Maestro Gasfíter / Sanitario - Red alcantarillado exterior PVC ø160mm	MO-4.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10311		6590						1		MAT-4.24			Suministro: Red alcantarillado exterior PVC ø160mm	MAT-4.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10312		6590						1		MO-4.25			Maestro Gasfíter / Sanitario - Cámara de inspección aguas servidas	MO-4.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10313		6590						1		MAT-4.25			Suministro: Cámara de inspección aguas servidas	MAT-4.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10314		6590						1		MO-4.26			Maestro Gasfíter / Sanitario - Trampa de grasas	MO-4.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10315		6590						1		MAT-4.26			Suministro: Trampa de grasas	MAT-4.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10316		6590						1		MO-4.27			Maestro Gasfíter / Sanitario - Instalación calefón 10L gas licuado	MO-4.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10317		6590						1		MAT-4.27			Suministro: Instalación calefón 10L gas licuado	MAT-4.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10318		6590						1		MO-4.28			Maestro Gasfíter / Sanitario - Construcción SSHH + caseta prefabricada 15m²	MO-4.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10319		6590						1		MAT-4.28			Suministro: Construcción SSHH + caseta prefabricada 15m²	MAT-4.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10320		6590						1		MO-4.29			Instalador Protección Contra Incendio - Red húmeda rociadores NFPA-13 ø63mm	MO-4.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10321		6590						1		MAT-4.29			Suministro: Red húmeda rociadores NFPA-13 ø63mm	MAT-4.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10322		6590						1		MO-4.30			Instalador Protección Contra Incendio - Rociadores automáticos estándar 68°C	MO-4.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10323		6590						1		MAT-4.30			Suministro: Rociadores automáticos estándar 68°C	MAT-4.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10324		6590						1		EQ-4.30			Equipo de prueba hidráulica - Rociadores automáticos estándar 68°C	EQ-4.30		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10325		6590						1		MO-4.31			Instalador Protección Contra Incendio - Central de detección incendio 8 zonas	MO-4.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10326		6590						1		MAT-4.31			Suministro: Central de detección incendio 8 zonas	MAT-4.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10327		6590						1		EQ-4.31			Instrumental de comisionamiento - Central de detección incendio 8 zonas	EQ-4.31		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10328		6590						1		MO-4.32			Instalador Protección Contra Incendio - Detectores de humo fotoeléctricos	MO-4.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10329		6590						1		MAT-4.32			Suministro: Detectores de humo fotoeléctricos	MAT-4.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10330		6590						1		EQ-4.32			Instrumental de comisionamiento - Detectores de humo fotoeléctricos	EQ-4.32		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10331		6590						1		MO-4.33			Instalador Protección Contra Incendio - Detectores temperatura 58°C	MO-4.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10332		6590						1		MAT-4.33			Suministro: Detectores temperatura 58°C	MAT-4.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10333		6590						1		EQ-4.33			Instrumental de comisionamiento - Detectores temperatura 58°C	EQ-4.33		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10334		6590						1		MO-4.34			Instalador Protección Contra Incendio - Pulsadores manuales de alarma	MO-4.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10335		6590						1		MAT-4.34			Suministro: Pulsadores manuales de alarma	MAT-4.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10336		6590						1		MO-4.35			Instalador Protección Contra Incendio - Sirenas estroboscópicas de alarma	MO-4.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10337		6590						1		MAT-4.35			Suministro: Sirenas estroboscópicas de alarma	MAT-4.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10338		6590						1		MO-4.36			Instalador Protección Contra Incendio - Gabinetes contra incendio 1.5 pulg completos	MO-4.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10339		6590						1		MAT-4.36			Suministro: Gabinetes contra incendio 1.5 pulg completos	MAT-4.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10340		6590						1		MO-4.37			Instalador Protección Contra Incendio - Extintores PQS 12kg ABC	MO-4.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10341		6590						1		MAT-4.37			Suministro: Extintores PQS 12kg ABC	MAT-4.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10342		6590						1		MO-4.38			Instalador Protección Contra Incendio - Estanque de reserva agua CI 20m³	MO-4.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10343		6590						1		MAT-4.38			Suministro: Estanque de reserva agua CI 20m³	MAT-4.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10344		6590						1		MO-4.39			Instalador Protección Contra Incendio - Grupo de presión CI motor-bomba 30HP	MO-4.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10345		6590						1		MAT-4.39			Suministro: Grupo de presión CI motor-bomba 30HP	MAT-4.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10346		6590						1		EQ-4.39			Equipos y herramientas menores - Grupo de presión CI motor-bomba 30HP	EQ-4.39		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10347		6590						1		MO-4.40			Instalador Protección Contra Incendio - Prueba hidráulica red CI (1.5x presión trabajo)	MO-4.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10348		6590						1		MAT-4.40			Suministro: Prueba hidráulica red CI (1.5x presión trabajo)	MAT-4.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10349		6590						1		EQ-4.40			Equipo de prueba hidráulica (bomba) - Prueba hidráulica red CI (1.5x presión trabajo)	EQ-4.40		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10350		6590						1		MO-4.41			Instalador de Ventilación/Climatización - Extractor industrial axial 15.000m³/h	MO-4.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10351		6590						1		MAT-4.41			Suministro: Extractor industrial axial 15.000m³/h	MAT-4.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10352		6590						1		EQ-4.41			Plataforma elevadora / izaje - Extractor industrial axial 15.000m³/h	EQ-4.41		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10353		6590						1		MO-4.42			Instalador de Ventilación/Climatización - Ventiladores de inyección 8.000m³/h	MO-4.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10354		6590						1		MAT-4.42			Suministro: Ventiladores de inyección 8.000m³/h	MAT-4.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10355		6590						1		EQ-4.42			Plataforma elevadora / izaje - Ventiladores de inyección 8.000m³/h	EQ-4.42		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10356		6590						1		MO-4.43			Instalador de Ventilación/Climatización - Ductos metálicos galvanizados ventilación	MO-4.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10357		6590						1		MAT-4.43			Suministro: Ductos metálicos galvanizados ventilación	MAT-4.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10358		6590						1		MO-4.44			Instalador de Ventilación/Climatización - Rejillas de admisión aire fresco fachada	MO-4.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10359		6590						1		MAT-4.44			Suministro: Rejillas de admisión aire fresco fachada	MAT-4.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10360		6590						1		MO-4.45			Instalador de Ventilación/Climatización - Control automático ventilación (termostato)	MO-4.45		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10361		6590						1		MAT-4.45			Suministro: Control automático ventilación (termostato)	MAT-4.45		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10362		6590						1		MO-4.46			Instalador de Ventilación/Climatización - Sistema extracción gases batería carga montacarga	MO-4.46		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10363		6590						1		MAT-4.46			Suministro: Sistema extracción gases batería carga montacarga	MAT-4.46		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10364		6590						1		MO-4.47			Especialista en Comisionamiento - Pruebas y comisionamiento instalaciones EE	MO-4.47		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10365		6590						1		MAT-4.47			Suministro: Pruebas y comisionamiento instalaciones EE	MAT-4.47		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10366		6590						1		MO-4.48			Maestro Gasfíter / Sanitario - Pruebas y comisionamiento SSHH	MO-4.48		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10367		6590						1		MAT-4.48			Suministro: Pruebas y comisionamiento SSHH	MAT-4.48		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10368		6590						1		MO-4.49			Proyectista (As-Built) - Planos as-built instalaciones	MO-4.49		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10369		6590						1		MAT-4.49			Suministro: Planos as-built instalaciones	MAT-4.49		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10370		6590						1		MO-4.50			Proyectista (As-Built) - Informe final de instalaciones y ensayos	MO-4.50		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10371		6590						1		MAT-4.50			Suministro: Informe final de instalaciones y ensayos	MAT-4.50		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10372		6590						1		MO-5.01			Instalador de Estanterías (Racks) - Estantería metálica pesada 5 niveles 1000kg/niv	MO-5.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10373		6590						1		MAT-5.01			Suministro: Estantería metálica pesada 5 niveles 1000kg/niv	MAT-5.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10374		6590						1		MO-5.02			Instalador de Estanterías (Racks) - Estantería metálica mediana 3 niveles 500kg/niv	MO-5.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10375		6590						1		MAT-5.02			Suministro: Estantería metálica mediana 3 niveles 500kg/niv	MAT-5.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10376		6590						1		MO-5.03			Instalador de Estanterías (Racks) - Estantería para neumáticos y partes largas	MO-5.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10377		6590						1		MAT-5.03			Suministro: Estantería para neumáticos y partes largas	MAT-5.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10378		6590						1		MO-5.04			Cuadrilla Montaje Equipamiento - Mesones metálicos de trabajo 200x80cm	MO-5.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10379		6590						1		MAT-5.04			Suministro: Mesones metálicos de trabajo 200x80cm	MAT-5.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10380		6590						1		MO-5.05			Cuadrilla Montaje Equipamiento - Casilleros personal (4 puertas)	MO-5.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10381		6590						1		MAT-5.05			Suministro: Casilleros personal (4 puertas)	MAT-5.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10382		6590						1		MO-5.06			Instalador de Señalética - Señalética de seguridad vinilo reflectante	MO-5.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10383		6590						1		MAT-5.06			Suministro: Señalética de seguridad vinilo reflectante	MAT-5.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10384		6590						1		MO-5.07			Instalador de Señalética - Señalética de almacenamiento y zonas	MO-5.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10385		6590						1		MAT-5.07			Suministro: Señalética de almacenamiento y zonas	MAT-5.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10386		6590						1		MO-5.08			Instalador de Señalética - Señalética de emergencia y evacuación	MO-5.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10387		6590						1		MAT-5.08			Suministro: Señalética de emergencia y evacuación	MAT-5.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10388		6590						1		MO-5.09			Pintor (Demarcación) - Pintura de señalética piso (vías tránsito)	MO-5.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10389		6590						1		MAT-5.09			Suministro: Pintura de señalética piso (vías tránsito)	MAT-5.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10390		6590						1		EQ-5.09			Equipo airless + andamios - Pintura de señalética piso (vías tránsito)	EQ-5.09		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10391		6590						1		MO-5.10			Técnico en Electrónica/CCTV - Cámaras CCTV domo 4K interior	MO-5.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10392		6590						1		MAT-5.10			Suministro: Cámaras CCTV domo 4K interior	MAT-5.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10393		6590						1		MO-5.11			Técnico en Electrónica/CCTV - Cámaras CCTV exterior PTZ 4K	MO-5.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10394		6590						1		MAT-5.11			Suministro: Cámaras CCTV exterior PTZ 4K	MAT-5.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10395		6590						1		MO-5.12			Técnico en Electrónica/CCTV - DVR 16 canales 4K + disco 8TB	MO-5.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10396		6590						1		MAT-5.12			Suministro: DVR 16 canales 4K + disco 8TB	MAT-5.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10397		6590						1		MO-5.13			Técnico en Electrónica/CCTV - Monitor 55 pulg sala de control	MO-5.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10398		6590						1		MAT-5.13			Suministro: Monitor 55 pulg sala de control	MAT-5.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10399		6590						1		MO-5.14			Técnico en Electrónica/Seguridad - Sistema control de acceso biométrico	MO-5.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10400		6590						1		MAT-5.14			Suministro: Sistema control de acceso biométrico	MAT-5.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10401		6590						1		MO-5.15			Técnico en Electrónica/Seguridad - Torniquete de acceso peatonal	MO-5.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10402		6590						1		MAT-5.15			Suministro: Torniquete de acceso peatonal	MAT-5.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10403		6590						1		MO-5.16			Técnico en Electrónica/Seguridad - Barrera vehicular automática	MO-5.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10404		6590						1		MAT-5.16			Suministro: Barrera vehicular automática	MAT-5.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10405		6590						1		MO-5.17			Cuadrilla Montaje Equipamiento - Mobiliario oficina bodegaje (escritorios+sillas)	MO-5.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10406		6590						1		MAT-5.17			Suministro: Mobiliario oficina bodegaje (escritorios+sillas)	MAT-5.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10407		6590						1		MO-5.18			Técnico en Redes/TI - Computadores gestión bodega (3 equipos)	MO-5.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10408		6590						1		MAT-5.18			Suministro: Computadores gestión bodega (3 equipos)	MAT-5.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10409		6590						1		MO-5.19			Técnico en Redes/TI - Impresora código de barras + lectores	MO-5.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10410		6590						1		MAT-5.19			Suministro: Impresora código de barras + lectores	MAT-5.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10411		6590						1		MO-5.20			Técnico en Redes/TI - Instalación sistema WiFi industrial	MO-5.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10412		6590						1		MAT-5.20			Suministro: Instalación sistema WiFi industrial	MAT-5.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10413		6590						1		MO-5.21			Pintor - Pintura interior muros SSHH	MO-5.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10414		6590						1		MAT-5.21			Suministro: Pintura interior muros SSHH	MAT-5.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10415		6590						1		EQ-5.21			Equipo airless + andamios - Pintura interior muros SSHH	EQ-5.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
-%R	10416		6590						1		MO-5.22			Maestro Ceramista - Revestimiento cerámico SSHH	MO-5.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10417		6590						1		MAT-5.22			Suministro: Revestimiento cerámico SSHH	MAT-5.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10418		6590						1		MO-5.23			Instalador de Cielos - Cielo falso planchas yeso-cartón oficinas	MO-5.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10419		6590						1		MAT-5.23			Suministro: Cielo falso planchas yeso-cartón oficinas	MAT-5.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10420		6590						1		MO-5.24			Cuadrilla de Aseo y Cierre - Limpieza general de obra	MO-5.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10421		6590						1		MAT-5.24			Suministro: Limpieza general de obra	MAT-5.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10422		6590						1		MO-5.25			Cuadrilla de Aseo y Cierre - Retiro de instalaciones de faenas	MO-5.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10423		6590						1		MAT-5.25			Suministro: Retiro de instalaciones de faenas	MAT-5.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10424		6590						1		MO-6.01			Director de Proyecto - Dirección de proyecto (DP) - mensual	MO-6.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10425		6590						1		MO-6.02			Administrador de Contrato - Administración de contratos	MO-6.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10426		6590						1		MO-6.03			Jefe de Calidad (QA/QC) - Gestión de calidad (inspecciones + libros)	MO-6.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10427		6590						1		MO-6.04			Experto en Prevención de Riesgos - Prevención de riesgos en obra	MO-6.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10428		6590						1		MO-6.05			Profesional de Control de Proyecto - Informes de avance mensuales al cliente	MO-6.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10429		6590						1		MAT-6.05			Suministro: Informes de avance mensuales al cliente	MAT-6.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10430		6590						1		MO-6.06			Jefe de Terreno - Reuniones de coordinación semanal	MO-6.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10431		6590						1		MAT-6.06			Suministro: Reuniones de coordinación semanal	MAT-6.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10432		6590						1		MO-6.07			Profesional de Control de Proyecto - Control de costos y EVM mensual	MO-6.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10433		6590						1		MO-6.08			Profesional de Cierre - Tramitación recepción definitiva DOM	MO-6.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10434		6590						1		MAT-6.08			Suministro: Tramitación recepción definitiva DOM	MAT-6.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10435		6590						1		MO-6.09			Profesional de Cierre - Entrega dossier técnico final	MO-6.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10436		6590						1		MAT-6.09			Suministro: Entrega dossier técnico final	MAT-6.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
-%R	10437		6590						1		MO-6.10			Profesional de Cierre - Acta de entrega y recepción conforme	MO-6.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
-%R	10438		6590						1		MAT-6.10			Suministro: Acta de entrega y recepción conforme	MAT-6.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10001		6590					UYVW5nnUSEO44Hepj6UWyA	1		MO-1.01			Cuadrilla Topografía - Levantamiento topográfico del terreno	MO-1.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10002		6590					3TJ8Z5sgToaUm3VwHN7mjQ	1		MO-1.02			Ingeniero Geotécnico - Estudio de mecánica de suelos (EMS)	MO-1.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10003		6590					TmXgABlST8qxStcTQaY/lw	1		MAT-1.02			Suministro: Estudio de mecánica de suelos (EMS)	MAT-1.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10004		6590					UhQBubBgT5S8td+Q7TEofQ	1		MO-1.03			Arquitecto Proyectista - Planos de arquitectura (plantas, cortes)	MO-1.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10005		6590					wxvFhSj1Q3irpqoF9asHlw	1		MAT-1.03			Suministro: Planos de arquitectura (plantas, cortes)	MAT-1.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10006		6590					Sac+Y7bIT4ikKfjG1LED/Q	1		MO-1.04			Ingeniero Calculista - Ingeniería básica estructural	MO-1.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10007		6590					EhTGABYkQAKRJmccqlZr7g	1		MAT-1.04			Suministro: Ingeniería básica estructural	MAT-1.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10008		6590					dvPlo7lHSMuhF9eg/WC5lg	1		MO-1.05			Ingeniero Calculista - Cálculo estructural galpón metálico	MO-1.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10009		6590					+im6JbbZSKa5JtNL0FGaYA	1		MAT-1.05			Suministro: Cálculo estructural galpón metálico	MAT-1.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10010		6590					O+d22v18Tr2aB8M/Jz2wcQ	1		MO-1.06			Ingeniero Calculista - Memoria de cálculo fundaciones	MO-1.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10011		6590					P6V9Iwx0TNiru3KqmjJhuw	1		MAT-1.06			Suministro: Memoria de cálculo fundaciones	MAT-1.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10012		6590					A5aiRcsYSC6iUhcncLSWPw	1		MO-1.07			Proyectista Estructural - Planos de estructuras metálicas	MO-1.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10013		6590					NWhdW5O3TFKTMKvWtCOAMg	1		MAT-1.07			Suministro: Planos de estructuras metálicas	MAT-1.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10014		6590					+yFHGFpyTamB/7tBmEMbLw	1		MO-1.08			Proyectista Eléctrico - Planos de instalaciones eléctricas	MO-1.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10015		6590					K0cFST4mTiy2Dfu7cutXGA	1		MAT-1.08			Suministro: Planos de instalaciones eléctricas	MAT-1.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10016		6590					VHAlKzH0RZaNNVgnw2gPOA	1		MO-1.09			Proyectista Sanitario - Planos instalaciones sanitarias	MO-1.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10017		6590					CGryoUFhRbSO21udBJdJOw	1		MAT-1.09			Suministro: Planos instalaciones sanitarias	MAT-1.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10018		6590					0eUOSgg1TJOapoSvImculQ	1		MO-1.10			Proyectista Protección Contra Incendio - Planos sistema contra incendio	MO-1.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10019		6590					QCk3dP/jQb2qAtgKUJNoMQ	1		MAT-1.10			Suministro: Planos sistema contra incendio	MAT-1.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10020		6590					ZNS/xOwgTKKizv8oPOOaTQ	1		MO-1.11			Especialista Técnico - Especificaciones técnicas generales	MO-1.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10021		6590					kIpcrUE9TlatqgbZTsw/Aw	1		MAT-1.11			Suministro: Especificaciones técnicas generales	MAT-1.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10022		6590					0h/37qs5QViwEK1LTtPZig	1		MO-1.12			Ingeniero Calculista - Especificaciones técnicas estructurales	MO-1.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10023		6590					T9MutRf2RBqfWNzGg9P16w	1		MAT-1.12			Suministro: Especificaciones técnicas estructurales	MAT-1.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10024		6590					adllt3WeRxWJJi2rzR6OdQ	1		MO-1.13			Especialista Técnico - Especificaciones técnicas EESS	MO-1.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10025		6590					1svbQ2DFQqWpVYIo0t92IQ	1		MAT-1.13			Suministro: Especificaciones técnicas EESS	MAT-1.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10026		6590					jM9wbtfgTVmvOr/IfvsWrw	1		MO-1.14			Profesional de Presupuesto - Presupuesto oficial APU por partida	MO-1.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10027		6590					41SMYCKPT9qeDDLMMvHlFQ	1		MAT-1.14			Suministro: Presupuesto oficial APU por partida	MAT-1.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10028		6590					0jx2XUP5TMC1aEi0QbnpYw	1		MO-1.15			Planificador (Scheduler P6) - Programa oficial del proyecto (P6)	MO-1.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10029		6590					T2ItpFaeTRKX1AFCoQs2jQ	1		MAT-1.15			Suministro: Programa oficial del proyecto (P6)	MAT-1.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10030		6590					3MvEUWJQRDOUVQyiSVLs8A	1		MO-1.16			Gestor de Permisos - Solicitud permiso de edificación DOM	MO-1.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10031		6590					zOyG62kqRb+KHIjw7kcK4Q	1		MAT-1.16			Suministro: Solicitud permiso de edificación DOM	MAT-1.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10032		6590					8avp5tN9RzuOmSJ5t6OYLA	1		MO-1.17			Gestor de Permisos - Tramitación revisión SEC instalaciones EE	MO-1.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10033		6590					MZjMPebrSoWEoE0HVu35/A	1		MAT-1.17			Suministro: Tramitación revisión SEC instalaciones EE	MAT-1.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10034		6590					Prvb5AGkT02VDnPWp13ykw	1		MO-1.18			Gestor de Permisos - Revisión planos SERNAGEOMIN	MO-1.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10035		6590					rVRLBZhsQDKrSP8THuKSMg	1		MAT-1.18			Suministro: Revisión planos SERNAGEOMIN	MAT-1.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10036		6590					kDSg1G4RR1mjJgzOJ/74Xw	1		MO-1.19			Gestor de Permisos - Aprobación permiso de edificación	MO-1.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10037		6590					PyJcsO/jRcybDP6fyhBCHg	1		MAT-1.19			Suministro: Aprobación permiso de edificación	MAT-1.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10038		6590					42hi4tEXQmmBIp4EixkWnQ	1		MO-1.20			Ingeniero de Calidad (QA/QC) - Plan de aseguramiento de calidad (PAC)	MO-1.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10039		6590					s3LZyqedTyytBQDI/eDMFg	1		MAT-1.20			Suministro: Plan de aseguramiento de calidad (PAC)	MAT-1.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10040		6590					bL+kjT0TS1G3RdTSmQ4A8w	1		MO-1.21			Asesor Ambiental - Plan de gestión ambiental	MO-1.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10041		6590					3GfvjhePRiuhqCOvU9En5w	1		MAT-1.21			Suministro: Plan de gestión ambiental	MAT-1.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10042		6590					MDXa3OAVTqu21S1Tscj6hg	1		MO-1.22			Experto en Prevención de Riesgos - Plan de gestión de seguridad (PGS)	MO-1.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10043		6590					iFved9WOSkWlsSWW+RCw+w	1		MAT-1.22			Suministro: Plan de gestión de seguridad (PGS)	MAT-1.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10044		6590					X1SAFMFIRqCflkF4cX3UdA	1		MO-1.23			Ingeniero de Laboratorio - Protocolo de ensayos de materiales	MO-1.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10045		6590					WeeF2gJERmemnnEsoSrdog	1		MAT-1.23			Suministro: Protocolo de ensayos de materiales	MAT-1.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10046		6590					IN9ZevefQuWZIpIjVrRZKw	1		MO-1.24			Planificador (Scheduler P6) - Informe de línea base del proyecto	MO-1.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10047		6590					UvRYFkntRYuTLj3CrR6dXQ	1		MAT-1.24			Suministro: Informe de línea base del proyecto	MAT-1.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10048		6590					teEqrZtXTMC01STkdmgy1w	1		MO-1.25			Jefe de Proyecto - Acta de inicio de obra (kick-off)	MO-1.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10049		6590					2R5Ln2uMQ2GIOEbwZOX2EA	1		MAT-1.25			Suministro: Acta de inicio de obra (kick-off)	MAT-1.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10050		6590					0/2bWpoFTOKnar8LbEN6eg	1		MO-2.01			Cuadrilla Instalación de Faenas - Instalación de faenas (bodega, casino, SSHH)	MO-2.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10051		6590					Llj2DnsEQ/OdQ9WlONPGJQ	1		MAT-2.01			Suministro: Instalación de faenas (bodega, casino, SSHH)	MAT-2.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10052		6590					C7HpJwCdQAOJgTgRhCg3hg	1		MO-2.02			Cuadrilla Instalación de Faenas - Cierre perimetral provisional de obra	MO-2.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10053		6590					coQaEWYxT6ibxw1tXZoezA	1		MAT-2.02			Suministro: Cierre perimetral provisional de obra	MAT-2.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10054		6590					Spqe5MSVSBWZPS4V7r34xw	1		MO-2.03			Cuadrilla Instalación de Faenas - Cartel de obra	MO-2.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10055		6590					DTzAiGedQfa9QNqxSSfOQg	1		MAT-2.03			Suministro: Cartel de obra	MAT-2.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10056		6590					JSTR381qSVubBmz1x6uVLw	1		MO-2.04			Cuadrilla Movimiento de Tierras - Desbroce y limpieza del terreno	MO-2.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10057		6590					6MEKnGilQs69Fvl3X/AXDA	1		MAT-2.04			Suministro: Desbroce y limpieza del terreno	MAT-2.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10058		6590					UabUHv3sQ1eh/XFMMKwdEA	1		EQ-2.04			Bulldozer / Retroexcavadora - Desbroce y limpieza del terreno	EQ-2.04		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10059		6590					mqvsMF1mThuITl1P5wqXXg	1		MO-2.05			Cuadrilla Topografía - Topografía y trazado ejes de fundaciones	MO-2.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10060		6590					rr6UMrVlQEmIUZUwmXEKsA	1		MAT-2.05			Suministro: Topografía y trazado ejes de fundaciones	MAT-2.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10061		6590					bZBrztAQTVWY2oBXXxPG1w	1		MO-2.06			Cuadrilla Movimiento de Tierras - Excavación mecánica para fundaciones	MO-2.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10062		6590					PWvTtXReTmWlAUZDnFUDIA	1		MAT-2.06			Suministro: Excavación mecánica para fundaciones	MAT-2.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10063		6590					w8Z4rCKoRs63qdkeOEKKKA	1		EQ-2.06			Retroexcavadora - Excavación mecánica para fundaciones	EQ-2.06		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10064		6590					BwChV5IBRt+xBTMCveZMfg	1		MO-2.07			Cuadrilla Movimiento de Tierras - Excavación manual para correcciones	MO-2.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10065		6590					+ZNlcAaLT6ClQuMlBvre8g	1		MO-2.08			Cuadrilla Movimiento de Tierras - Retiro de excedentes de excavación	MO-2.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10066		6590					Y5Rw/isvQkmMhBkZJVOAIQ	1		MAT-2.08			Suministro: Retiro de excedentes de excavación	MAT-2.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10067		6590					WeE6L/wLR7+Z10V8NLsvmg	1		EQ-2.08			Retroexcavadora - Retiro de excedentes de excavación	EQ-2.08		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10068		6590					pAMi5AiVTye292F4S1bObA	1		MO-2.09			Cuadrilla Movimiento de Tierras - Relleno y compactación con material seleccionado	MO-2.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10069		6590					FK5iBmCjRxC++LO6T9YG9A	1		MAT-2.09			Suministro: Relleno y compactación con material seleccionado	MAT-2.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10070		6590					B6O4fP9TR1GUFw4F1sgr/Q	1		EQ-2.09			Rodillo / Placa compactadora - Relleno y compactación con material seleccionado	EQ-2.09		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10071		6590					ALH4tPcHS5ifrpeIadr7UQ	1		MO-2.10			Cuadrilla Hormigonado (Concretero) - Hormigón de limpieza H-10 e=5cm	MO-2.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10072		6590					pTCHryYgSRqEgHX1KQ91cg	1		MAT-2.10			Suministro: Hormigón de limpieza H-10 e=5cm	MAT-2.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10073		6590					JyU7r9hzRkyOoxzrIZ3X2A	1		MO-2.11			Maestro Enfierrador - Enfierradura zapatas (kg)	MO-2.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10074		6590					o5jDdMBJRXS9t5WVPOaT5g	1		MAT-2.11			Suministro: Enfierradura zapatas (kg)	MAT-2.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10075		6590					o1AGf/HdSu+uL0EKnHWVEA	1		MO-2.12			Carpintero de Obra (Moldajes) - Moldaje zapatas aisladas	MO-2.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10076		6590					LKZOn5y1QbuczBINaOBiUg	1		MO-2.13			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 zapatas aisladas	MO-2.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10077		6590					WdliBiprQYGfeYYh2LY4Gw	1		MAT-2.13			Suministro: Hormigón H-30 zapatas aisladas	MAT-2.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10078		6590					Gsis622DRGW7ThKvsidgjw	1		MO-2.14			Maestro Enfierrador - Enfierradura cadena de fundación	MO-2.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10079		6590					JsJmDr/NT8CKD75c8GgeZQ	1		MAT-2.14			Suministro: Enfierradura cadena de fundación	MAT-2.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10080		6590					ytppUPzuQi6WHWXEns9/Fg	1		MO-2.15			Carpintero de Obra (Moldajes) - Moldaje cadena de fundación	MO-2.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10081		6590					yYhmyNEuSP2enD+oGxgyYw	1		MO-2.16			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 cadena de fundación	MO-2.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10082		6590					eDWiXadWQf+bA0ercQXqLg	1		MAT-2.16			Suministro: Hormigón H-30 cadena de fundación	MAT-2.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10083		6590					oTtsAMM3THSkBxhn3ndivQ	1		MO-2.17			Maestro Montajista - Pernos de anclaje columnas (set)	MO-2.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10084		6590					SJoJyPpfTIiR3bH30KpbWQ	1		MAT-2.17			Suministro: Pernos de anclaje columnas (set)	MAT-2.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10085		6590					OcKZrY5WTp265Ncn0MzA5g	1		MO-2.18			Maestro Montajista - Nivelación y alineación placas base	MO-2.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10086		6590					xypxuUk9SfKRe6MYwXxk2w	1		MAT-2.18			Suministro: Nivelación y alineación placas base	MAT-2.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10087		6590					mUGxBILJS0KZRVtzY0N3rA	1		MO-2.19			Maestro Montajista - Grouting placas base columnas	MO-2.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10088		6590					CHbIq9XnTo2JwdDi/M2QbQ	1		MAT-2.19			Suministro: Grouting placas base columnas	MAT-2.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10089		6590					pm4DTN8xTXOVVXV8GJ+gIA	1		MO-2.20			Cuadrilla Movimiento de Tierras - Relleno interior con ripio compactado e=20cm	MO-2.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10090		6590					8eJYnsL6QrWMHtOYYpRH9Q	1		MAT-2.20			Suministro: Relleno interior con ripio compactado e=20cm	MAT-2.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10091		6590					UDYrxnWKRYWYbkWcFT6I5A	1		EQ-2.20			Rodillo / Placa compactadora - Relleno interior con ripio compactado e=20cm	EQ-2.20		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10092		6590					i4wmBKiORTW5NO8ylBevww	1		MO-2.21			Cuadrilla Movimiento de Tierras - Compactación de subrasante (95% Proctor)	MO-2.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10093		6590					nv6++bpJTbCyVU21dXbNaw	1		MAT-2.21			Suministro: Compactación de subrasante (95% Proctor)	MAT-2.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10094		6590					AdVXMaQqSa2OnCbvK+eImQ	1		EQ-2.21			Rodillo / Placa compactadora - Compactación de subrasante (95% Proctor)	EQ-2.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10095		6590					1whU4bOVQPKYs8K8+G6j6Q	1		MO-2.22			Cuadrilla Movimiento de Tierras - Sub-base granular e=15cm compactada	MO-2.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10096		6590					0UDkLmQOS4WK58oQlWQ/GQ	1		MAT-2.22			Suministro: Sub-base granular e=15cm compactada	MAT-2.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10097		6590					2/GiPYmTSRuC4Be1v82HvQ	1		EQ-2.22			Rodillo / Placa compactadora - Sub-base granular e=15cm compactada	EQ-2.22		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10098		6590					vf3Ip3qZT3Kt7Eq+OuZuvQ	1		MO-2.23			Maestro Enfierrador - Enfierradura losa malla ø8@20cm	MO-2.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10099		6590					viK6t3jBQ1CFiFObn4CspQ	1		MAT-2.23			Suministro: Enfierradura losa malla ø8@20cm	MAT-2.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10100		6590					qsEdmh9tQpunIRC5GXUKHA	1		MO-2.24			Carpintero de Obra (Moldajes) - Moldaje perimetral losa	MO-2.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10101		6590					OOO2/7j2RfyzVghLQr1SBg	1		MAT-2.24			Suministro: Moldaje perimetral losa	MAT-2.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10102		6590					Eq/Oeb2VQAuYcAxJzUs1ew	1		MO-2.25			Instalador Sanitario (EESS) - Instalación tuberías embutidas EESS antes de losa	MO-2.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10103		6590					LjQfkYfqRxuIwTaHyQfCRQ	1		MAT-2.25			Suministro: Instalación tuberías embutidas EESS antes de losa	MAT-2.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10104		6590					opejqaaiQJy+69qh3doqKg	1		EQ-2.25			Camión hormigonera + regla vibratoria - Instalación tuberías embutidas EESS antes de losa	EQ-2.25		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10105		6590					tPGcPxECTIaHHh7aSgDpfw	1		MO-2.26			Instalador Eléctrico (EE) - Instalación ductos eléctricos embutidos	MO-2.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10106		6590					FNtKE3UxQgKE0ppOrEqkGg	1		MAT-2.26			Suministro: Instalación ductos eléctricos embutidos	MAT-2.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10107		6590					ht3Tok7SR4mG87PEW1APCw	1		MO-2.27			Cuadrilla Hormigonado (Concretero) - Hormigón H-30 losa e=15cm	MO-2.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10108		6590					e35GDmHKQd2OjwoJSF+HGQ	1		MAT-2.27			Suministro: Hormigón H-30 losa e=15cm	MAT-2.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10109		6590					i1Fsu+i+QI+8n1KJxZ++iA	1		EQ-2.27			Camión hormigonera + regla vibratoria - Hormigón H-30 losa e=15cm	EQ-2.27		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10110		6590					5CbZcOAgTcaGu3Jl8+fE2g	1		MO-2.28			Cuadrilla Terminaciones de Losa - Endurecedor superficial minerálico	MO-2.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10111		6590					PEWv8wC1RS2Cfjfv2j+vaA	1		MAT-2.28			Suministro: Endurecedor superficial minerálico	MAT-2.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10112		6590					YKjBNs3yTvecm8gP2wWc1w	1		EQ-2.28			Equipo de pulido (helicóptero) - Endurecedor superficial minerálico	EQ-2.28		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10113		6590					JAhzDjuXTFGgnZnufdvb9Q	1		MO-2.29			Cuadrilla Terminaciones de Losa - Curado de losa con membrana	MO-2.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10114		6590					Ogf8XJUuSFGWkMYuJKv34g	1		MAT-2.29			Suministro: Curado de losa con membrana	MAT-2.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10115		6590					4W3Qfu/OS5+5F+WVhHkmLg	1		MO-2.30			Cuadrilla Terminaciones de Losa - Corte de juntas de dilatación	MO-2.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10116		6590					F8eW4s33SCi37qnrcw+uSg	1		MAT-2.30			Suministro: Corte de juntas de dilatación	MAT-2.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10117		6590					uNYutb/ySD2W0++rwQkaCw	1		MO-2.31			Cuadrilla Terminaciones de Losa - Sellado de juntas con poliuretano	MO-2.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10118		6590					FDGF5606SiqKjRFk2ocCCA	1		MAT-2.31			Suministro: Sellado de juntas con poliuretano	MAT-2.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10119		6590					IPCtbzFRQfacoF16Z1XvpQ	1		MO-2.32			Cuadrilla Hormigonado (Concretero) - Pavimento exterior acceso hormigón H-25 e=12cm	MO-2.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10120		6590					l78sNj3QS7mHW3MwyRw/og	1		MAT-2.32			Suministro: Pavimento exterior acceso hormigón H-25 e=12cm	MAT-2.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10121		6590					JnF409ijSSi+GZ/x0nrnbg	1		EQ-2.32			Camión hormigonera + vibrador - Pavimento exterior acceso hormigón H-25 e=12cm	EQ-2.32		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10122		6590					I4U35/caSA6RZCDCSvuTlg	1		MO-2.33			Cuadrilla Hormigonado (Concretero) - Bordillo hormigón prefabricado	MO-2.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10123		6590					eGmJFvh5TZSr1zw4qtQyqg	1		MAT-2.33			Suministro: Bordillo hormigón prefabricado	MAT-2.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10124		6590					E0c7jEmaRXWWcS4rNTXd9w	1		MO-2.34			Cuadrilla Hormigonado (Concretero) - Veredas peatonales H-25	MO-2.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10125		6590					dD7TWIafTvWaqF7D51Xscg	1		MAT-2.34			Suministro: Veredas peatonales H-25	MAT-2.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10126		6590					vnlYjDQhQLKI68HesCSmfg	1		EQ-2.34			Camión hormigonera + vibrador - Veredas peatonales H-25	EQ-2.34		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10127		6590					a3uWVFlcRgW2H/N2R6yvlg	1		MO-2.35			Cuadrilla Hormigonado (Concretero) - Hormigón cierre perimetral inferior (soleo)	MO-2.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10128		6590					/1STo9kpRkuShbHY2eJv0A	1		MAT-2.35			Suministro: Hormigón cierre perimetral inferior (soleo)	MAT-2.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10129		6590					OVCYH/5GQj2iDGXkC5ntnA	1		EQ-2.35			Camión hormigonera + vibrador - Hormigón cierre perimetral inferior (soleo)	EQ-2.35		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10130		6590					OtKLBovtQ5+aAZsquytQpQ	1		MO-2.36			Maestro Sanitario / Obras - Foso de inspección instalaciones	MO-2.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10131		6590					a1j18Cu1Sly1dre9R/8i8Q	1		MAT-2.36			Suministro: Foso de inspección instalaciones	MAT-2.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10132		6590					rze85PBRRt6/tNKaoQDneQ	1		EQ-2.36			Retroexcavadora menor - Foso de inspección instalaciones	EQ-2.36		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10133		6590					T69+3mFZSt6R3cOXPAH40A	1		MO-2.37			Maestro Sanitario / Obras - Cámara de inspección aguas lluvia	MO-2.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10134		6590					JTIUJZaiT1ywrp7KbotUdQ	1		MAT-2.37			Suministro: Cámara de inspección aguas lluvia	MAT-2.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10135		6590					+ri3p850RCGp9KuzMu3TFQ	1		EQ-2.37			Retroexcavadora menor - Cámara de inspección aguas lluvia	EQ-2.37		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10136		6590					yy2qox01QRKJ6rp6lC3lHg	1		MO-2.38			Maestro Sanitario / Obras - Canaleta aguas lluvia perimetral	MO-2.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10137		6590					EyHu6svXQSy/BiNrm6GukA	1		MAT-2.38			Suministro: Canaleta aguas lluvia perimetral	MAT-2.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10138		6590					EKijPooCRSuUgDnmHL2Hbg	1		MO-2.39			Maestro Sanitario / Obras - Red de alcantarillado pluvial enterrada	MO-2.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10139		6590					/Bw42K6FTEeyRH2/9WY9sw	1		MAT-2.39			Suministro: Red de alcantarillado pluvial enterrada	MAT-2.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10140		6590					hMghQBm1Sdqht80WsCeyMQ	1		MO-2.40			Maestro Sanitario / Obras - Colector de agua lluvia (bajadas techo)	MO-2.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10141		6590					0BeidIaESrKP+4Ff8zd/nA	1		MAT-2.40			Suministro: Colector de agua lluvia (bajadas techo)	MAT-2.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10142		6590					IYQ7P75OSA2BsdFfHrVUfQ	1		MO-2.41			Pintor Industrial (Epóxico) - Pintura suelo epóxico 2 manos demarcación	MO-2.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10143		6590					Zgn1V0LOQCWAdbNEmvRxmQ	1		MAT-2.41			Suministro: Pintura suelo epóxico 2 manos demarcación	MAT-2.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10144		6590					YxJ1U23ZRXqGg1J9Rf44/A	1		MO-2.42			Pintor Industrial (Epóxico) - Demarcación zonas de tránsito y almacén	MO-2.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10145		6590					IwHKU9L2Ri2JeewwU+ARRA	1		MAT-2.42			Suministro: Demarcación zonas de tránsito y almacén	MAT-2.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10146		6590					brCzvUV5SQGXMMLPUb+ucg	1		MO-2.43			Cuadrilla Hormigonado (Concretero) - Ensayo compresión hormigón (serie 3 probetas)	MO-2.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10147		6590					YxSRNdXvTc2lNgYLAQfC6Q	1		MAT-2.43			Suministro: Ensayo compresión hormigón (serie 3 probetas)	MAT-2.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10148		6590					QSiURM9tQ2CCmJ8YpHMKBg	1		EQ-2.43			Camión hormigonera + vibrador - Ensayo compresión hormigón (serie 3 probetas)	EQ-2.43		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10149		6590					EIzbeE7dRLmIn6a8ej07VA	1		MO-2.44			Cuadrilla Movimiento de Tierras - Ensayo compactación Proctor modificado	MO-2.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10150		6590					y/D5M5MXSiuA0zd+9gJKOQ	1		MAT-2.44			Suministro: Ensayo compactación Proctor modificado	MAT-2.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10151		6590					CVBFJpFcQmmDIsAtF2d9lg	1		EQ-2.44			Rodillo / Placa compactadora - Ensayo compactación Proctor modificado	EQ-2.44		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10152		6590					P2zx3hj1SuK/KAjY8ASgKw	1		MO-3.01			Maestro Estructurero (Taller) - Fabricación columnas perfil HEB 260	MO-3.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10153		6590					2CnU1nDzREev7M31WKcUcg	1		MAT-3.01			Suministro: Fabricación columnas perfil HEB 260	MAT-3.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10154		6590					H23oCxC9RHmaOD7ptvbOSA	1		MO-3.02			Maestro Estructurero (Taller) - Fabricación vigas principales reticuladas	MO-3.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10155		6590					gjCHmNggTxmlPE4x7ZnJZw	1		MAT-3.02			Suministro: Fabricación vigas principales reticuladas	MAT-3.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10156		6590					o/c3qdVQQa2M2JDqwhLkPg	1		MO-3.03			Maestro Estructurero (Taller) - Fabricación vigas secundarias IPE 240	MO-3.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10157		6590					HsiEHjtES2eJwDxalObQ2Q	1		MAT-3.03			Suministro: Fabricación vigas secundarias IPE 240	MAT-3.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10158		6590					cDIDvOm7S8iAGoBSMWMxng	1		MO-3.04			Maestro Estructurero (Taller) - Fabricación viguetas de cubierta	MO-3.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10159		6590					jX6lmWOHQLar3Zj4n8++NQ	1		MAT-3.04			Suministro: Fabricación viguetas de cubierta	MAT-3.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10160		6590					yLxWWLJrQGiHHGWTT+cf6g	1		MO-3.05			Maestro Estructurero (Taller) - Fabricación correas de techo C200	MO-3.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10161		6590					wv3CjRHvTOyifC7WvsbYCA	1		MAT-3.05			Suministro: Fabricación correas de techo C200	MAT-3.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10162		6590					BsX0pyJgT/CLu/ix4Pp9Cw	1		MO-3.06			Maestro Estructurero (Taller) - Fabricación tirantes y cruces de San Andrés	MO-3.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10163		6590					yX9hAE3jTK6QhpSrnXkJ0A	1		MAT-3.06			Suministro: Fabricación tirantes y cruces de San Andrés	MAT-3.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10164		6590					SNpf3bm+Ri20V+Oac4JrDg	1		MO-3.07			Maestro Estructurero (Taller) - Fabricación portones ingreso 5x6m	MO-3.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10165		6590					6G/eehQlQ3ax4ZmeM8bAiw	1		MAT-3.07			Suministro: Fabricación portones ingreso 5x6m	MAT-3.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10166		6590					P5W30dboQhG+TRM9zTGaqg	1		MO-3.08			Maestro Estructurero (Taller) - Fabricación portón salida emergencia 3x4m	MO-3.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10167		6590					ZBTqiiS5RBuGLbmThYeAsQ	1		MAT-3.08			Suministro: Fabricación portón salida emergencia 3x4m	MAT-3.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10168		6590					+nSI6SS/Qo2d70aOBWdLzA	1		MO-3.09			Maestro Estructurero (Taller) - Fabricación plataformas de acceso acero	MO-3.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10169		6590					N522MOVJQM2HP+sAQgVkBQ	1		MAT-3.09			Suministro: Fabricación plataformas de acceso acero	MAT-3.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10170		6590					bOm75oN+R4CBQo0irihEWw	1		MO-3.10			Maestro Estructurero (Taller) - Fabricación escaleras metálicas interiores	MO-3.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10171		6590					W5kFNhYMSTyQmHB5didHnA	1		MAT-3.10			Suministro: Fabricación escaleras metálicas interiores	MAT-3.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10172		6590					4bIEmO73SXue7NJC2BpUzw	1		MO-3.11			Pintor Industrial (Anticorrosivo) - Granallado y pintura anticorrosiva 2 manos	MO-3.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10173		6590					OY/HPo5SQZWgnExzG9VPgA	1		MAT-3.11			Suministro: Granallado y pintura anticorrosiva 2 manos	MAT-3.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10174		6590					UHOosx39RLmZsHYAMJ0AIA	1		EQ-3.11			Equipo de granallado + compresor - Granallado y pintura anticorrosiva 2 manos	EQ-3.11		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10175		6590					8dD/L/urQaiewsbL1/ZK8A	1		MO-3.12			Pintor Industrial - Pintura esmalte color final RAL 7035	MO-3.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10176		6590					zuTKqkUTQRaOpU+aI7LAVw	1		MAT-3.12			Suministro: Pintura esmalte color final RAL 7035	MAT-3.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10177		6590					/yJKihgqTJalvAWI3dpv7w	1		EQ-3.12			Equipo airless + andamios - Pintura esmalte color final RAL 7035	EQ-3.12		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10178		6590					qWF0AZg7QGm991D4tef0lA	1		MO-3.13			Cuadrilla de Transporte/Carga - Transporte de estructura a obra	MO-3.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10179		6590					XUioNlMOQi6Sv92XFUJ2pQ	1		MAT-3.13			Suministro: Transporte de estructura a obra	MAT-3.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10180		6590					3OtmQLrDTXeyODt4YE4c4w	1		EQ-3.13			Camión cama baja - Transporte de estructura a obra	EQ-3.13		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10181		6590					AMmCWQIXQ+SFJatLxKH8cA	1		MO-3.14			Operador de Maquinaria - Habilitación acceso maquinaria pesada a galpón	MO-3.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10182		6590					BRtDHWqVQgWA+RW65dtIMA	1		MAT-3.14			Suministro: Habilitación acceso maquinaria pesada a galpón	MAT-3.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10183		6590					3MLAGfZjRF2V3r0hZWRrzg	1		EQ-3.14			Maquinaria movimiento de tierra - Habilitación acceso maquinaria pesada a galpón	EQ-3.14		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10184		6590					6JIoeuCHQuCraQlGEkhDwg	1		MO-3.15			Cuadrilla de Montaje (Rigger) - Montaje columnas principales	MO-3.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10185		6590					aG4IYH/WQ+SrqLQFq5z9ig	1		MAT-3.15			Suministro: Montaje columnas principales	MAT-3.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10186		6590					Lj5rcj2hS0620SL213GfnQ	1		EQ-3.15			Camión grúa / grúa móvil - Montaje columnas principales	EQ-3.15		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10187		6590					tUdAZKkTQJu67VELFq4wKw	1		MO-3.16			Cuadrilla de Montaje (Rigger) - Montaje vigas principales	MO-3.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10188		6590					mG01Z/atSBydLswaCxRvYg	1		MAT-3.16			Suministro: Montaje vigas principales	MAT-3.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10189		6590					3UpmASyPS+e8apPLu3Y8Lg	1		EQ-3.16			Camión grúa / grúa móvil - Montaje vigas principales	EQ-3.16		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10190		6590					8mfNEgKnSQmpFWoU5Y/ZhQ	1		MO-3.17			Cuadrilla de Montaje (Rigger) - Montaje vigas secundarias	MO-3.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10191		6590					0FnkxHWmQn21ovFL0RvZWg	1		MAT-3.17			Suministro: Montaje vigas secundarias	MAT-3.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10192		6590					qJYl+DecSeC37klW0WUbUA	1		EQ-3.17			Camión grúa / grúa móvil - Montaje vigas secundarias	EQ-3.17		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10193		6590					PsS3o4/tTVOzPFiGpuinBw	1		MO-3.18			Cuadrilla de Montaje (Rigger) - Montaje viguetas de cubierta	MO-3.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10194		6590					TbF9JLYhTnaaGUILKl3XQg	1		MAT-3.18			Suministro: Montaje viguetas de cubierta	MAT-3.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10195		6590					nOH7usjNTeiRgcXvb7JBPQ	1		EQ-3.18			Camión grúa / grúa móvil - Montaje viguetas de cubierta	EQ-3.18		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10196		6590					IxiRQDU8SjiwVXXXRcchxg	1		MO-3.19			Cuadrilla de Montaje (Rigger) - Montaje correas de techo	MO-3.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10197		6590					QOp+wnh4TRasxJGyR/2x+Q	1		MAT-3.19			Suministro: Montaje correas de techo	MAT-3.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10198		6590					IghaOVhUR76OPbKT3u6+WA	1		EQ-3.19			Camión grúa / grúa móvil - Montaje correas de techo	EQ-3.19		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10199		6590					fkYEGkS7TNujsnrGcwVtAw	1		MO-3.20			Cuadrilla de Montaje (Rigger) - Montaje tirantes y arriostramiento	MO-3.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10200		6590					zpt7c23/Q4e2O84531/Mpw	1		MO-3.21			Cuadrilla de Montaje (Rigger) - Montaje portones de acceso vehicular	MO-3.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10201		6590					DJ/xGcO8TkCorXL/cydIpQ	1		MAT-3.21			Suministro: Montaje portones de acceso vehicular	MAT-3.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10202		6590					FBkqgvgtQU+WMAM8NMsrxQ	1		EQ-3.21			Camión grúa / grúa móvil - Montaje portones de acceso vehicular	EQ-3.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10203		6590					vSSKP/GwS/6vWgS/nECrQw	1		MO-3.22			Cuadrilla de Montaje (Rigger) - Montaje puertas de emergencia	MO-3.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10204		6590					VpWbUTaBR42j3WqvYYIkjg	1		MAT-3.22			Suministro: Montaje puertas de emergencia	MAT-3.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10205		6590					hjsKQ5OASq6dh2klyn64Pw	1		EQ-3.22			Camión grúa / grúa móvil - Montaje puertas de emergencia	EQ-3.22		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10206		6590					c5TTu3ZURZGN40wJ/FIQAg	1		MO-3.23			Cuadrilla de Montaje (Rigger) - Montaje plataformas y escaleras	MO-3.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10207		6590					fr8AKkZQSzW8oBWBca8pRQ	1		MAT-3.23			Suministro: Montaje plataformas y escaleras	MAT-3.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10208		6590					ZYfd8qpMTD2r1NKtlT96BA	1		EQ-3.23			Camión grúa / grúa móvil - Montaje plataformas y escaleras	EQ-3.23		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10209		6590					Eywt/PwURKGc243yy/treg	1		MO-3.24			Cuadrilla Cubierta y Cerramientos - Cubierta panel sandwich TR-5 e=50mm	MO-3.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10210		6590					b4iug0sQRjCxx0wY/kfQKA	1		MAT-3.24			Suministro: Cubierta panel sandwich TR-5 e=50mm	MAT-3.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10211		6590					WpImJXK9SlS7ldsTwfNDJw	1		EQ-3.24			Plataforma elevadora (manlift) - Cubierta panel sandwich TR-5 e=50mm	EQ-3.24		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10212		6590					2E+aP3zST5m1ViR+9eEJGg	1		MO-3.25			Cuadrilla Cubierta y Cerramientos - Cierre lateral panel metálico e=40mm	MO-3.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10213		6590					YWkcconnToS+N0y2LlcKWg	1		MAT-3.25			Suministro: Cierre lateral panel metálico e=40mm	MAT-3.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10214		6590					5Db+9WCoRDWtPxmSQxnVaA	1		EQ-3.25			Plataforma elevadora (manlift) - Cierre lateral panel metálico e=40mm	EQ-3.25		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10215		6590					+TXZNzm9Rx2P+QFPhSNJKA	1		MO-3.26			Cuadrilla Cubierta y Cerramientos - Frente fachada con panel metálico	MO-3.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10216		6590					J4tDfL+cQg+iSBxgIttPig	1		MAT-3.26			Suministro: Frente fachada con panel metálico	MAT-3.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10217		6590					1o5uM/GASoyRPvQkWGzAzg	1		EQ-3.26			Plataforma elevadora (manlift) - Frente fachada con panel metálico	EQ-3.26		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10218		6590					aU9+If0BSB6O03O2gZZQzQ	1		MO-3.27			Cuadrilla Cubierta y Cerramientos - Instalación canaletas y bajadas de aguas lluvia	MO-3.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10219		6590					GzyN+HbVRqm1kvPLjY6lkA	1		MAT-3.27			Suministro: Instalación canaletas y bajadas de aguas lluvia	MAT-3.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10220		6590					shckg/7LSCKgssOHu474BQ	1		MO-3.28			Cuadrilla Cubierta y Cerramientos - Instalación cumbreras y remates perimetrales	MO-3.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10221		6590					toWRtNwpRhmr8xA6WAzM2g	1		MAT-3.28			Suministro: Instalación cumbreras y remates perimetrales	MAT-3.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10222		6590					Nv1ZKoYiTw+zh8rqnY+uDA	1		MO-3.29			Cuadrilla Cubierta y Cerramientos - Instalación claraboyas translúcidas	MO-3.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10223		6590					ZT+nhy8ZRsWWZqDmF4PkVQ	1		MAT-3.29			Suministro: Instalación claraboyas translúcidas	MAT-3.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10224		6590					7IkLF0AYSHGKU6QbTSKwmg	1		MO-3.30			Cuadrilla Cubierta y Cerramientos - Instalación rejillas de ventilación cenital	MO-3.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10225		6590					TLizsxgUQ2WDzm9yLtiENw	1		MAT-3.30			Suministro: Instalación rejillas de ventilación cenital	MAT-3.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10226		6590					kBD2ONsCSWS0MrlRILO6pg	1		MO-3.31			Cuadrilla Cubierta y Cerramientos - Sellado de encuentros cubierta-muro	MO-3.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10227		6590					SeX+G/NtSMKv8Tt0Ja8W/Q	1		MAT-3.31			Suministro: Sellado de encuentros cubierta-muro	MAT-3.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10228		6590					ePtEyM6JTEWm3L/3UIP1jQ	1		MO-3.32			Cuadrilla Cubierta y Cerramientos - Barrera de vapor bajo cubierta	MO-3.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10229		6590					33AgRiEsS4e1JZkm0NJdfw	1		MAT-3.32			Suministro: Barrera de vapor bajo cubierta	MAT-3.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10230		6590					dQrlSDgFSF6Uk03pt0RiPQ	1		MO-3.33			Cuadrilla Cubierta y Cerramientos - Aislación térmica cubierta lana mineral e=80mm	MO-3.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10231		6590					Xpafe+3WRgGP6Z2iSh5/jw	1		MAT-3.33			Suministro: Aislación térmica cubierta lana mineral e=80mm	MAT-3.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10232		6590					8LgZnqAzSSC9VLnB7fxwoQ	1		MO-3.34			Cuadrilla Aislación - Aislación muros laterales e=50mm	MO-3.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10233		6590					f/qSMbMVSDS3irFxjKJCJA	1		MAT-3.34			Suministro: Aislación muros laterales e=50mm	MAT-3.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10234		6590					UQZdmr1NR7+9sbktfmcPig	1		MO-3.35			Cuadrilla Cubierta y Cerramientos - Cierre inferior muro con placa fibrocemento	MO-3.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10235		6590					63q5mddfSmSDWzxqAk0OCg	1		MAT-3.35			Suministro: Cierre inferior muro con placa fibrocemento	MAT-3.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10236		6590					C6WyCe9mQIG95s16Pfhahg	1		MO-3.36			Cuadrilla Cubierta y Cerramientos - Instalación ventanas fachada (0.8x1.0m)	MO-3.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10237		6590					isXHunj7StOde49k49RB8A	1		MAT-3.36			Suministro: Instalación ventanas fachada (0.8x1.0m)	MAT-3.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10238		6590					HRtQsNWiQwOWb/nseYGt5A	1		MO-3.37			Cuadrilla Cubierta y Cerramientos - Instalación ventanas laterales (0.6x0.8m)	MO-3.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10239		6590					9WA06DIqQhKy9frAQVQfMg	1		MAT-3.37			Suministro: Instalación ventanas laterales (0.6x0.8m)	MAT-3.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10240		6590					5Ye2+nxLRTGUBX8NiHXB9w	1		MO-3.38			Pintor Industrial - Pintura exterior de fachadas	MO-3.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10241		6590					8bcEdQKfQJiuIzb3EuvmNw	1		MAT-3.38			Suministro: Pintura exterior de fachadas	MAT-3.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10242		6590					rA+ctW8mT7GnSaSNUntR/A	1		EQ-3.38			Equipo airless + andamios - Pintura exterior de fachadas	EQ-3.38		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10243		6590					jmttofT3RrSu99iwsS9aJg	1		MO-3.39			Pintor Industrial - Pintura interior galpón (vigas y columnas)	MO-3.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10244		6590					TPa/XvTCS6OulxosgvF16w	1		MAT-3.39			Suministro: Pintura interior galpón (vigas y columnas)	MAT-3.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10245		6590					0h4GFTUoS8SQkWFg1IYvHQ	1		EQ-3.39			Equipo airless + andamios - Pintura interior galpón (vigas y columnas)	EQ-3.39		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10246		6590					8SfqyO3bQVutIxAaVgWBuw	1		MO-3.40			Cuadrilla de Aseo - Limpieza post montaje estructura	MO-3.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10247		6590					9gzfjXWLTfab2aL6JZHoZA	1		MAT-3.40			Suministro: Limpieza post montaje estructura	MAT-3.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10248		6590					ajc3MPkGRRKHplHb6OWFFg	1		MO-3.41			Inspector QA/QC Estructuras - Apriete y revisión pernos de alta resistencia	MO-3.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10249		6590					PoVHWhl+QLG541rc2tAZjQ	1		MAT-3.41			Suministro: Apriete y revisión pernos de alta resistencia	MAT-3.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10250		6590					FyOc1KKoTb2odMMd919tnA	1		MO-3.42			Inspector QA/QC Estructuras - Inspección radiográfica soldaduras críticas	MO-3.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10251		6590					GKANaQY7SDiD534WCrIK8w	1		MAT-3.42			Suministro: Inspección radiográfica soldaduras críticas	MAT-3.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10252		6590					C08jvmLfS2qpGcwTAuYbzQ	1		EQ-3.42			Equipo de gammagrafía industrial - Inspección radiográfica soldaduras críticas	EQ-3.42		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10253		6590					RtNSNNcQRRShY2W66ffHxQ	1		MO-3.43			Inspector QA/QC Estructuras - Prueba de carga estructura (1.5x sobrecarga)	MO-3.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10254		6590					xBnhsE3BSdKMK12fTqu/4g	1		MAT-3.43			Suministro: Prueba de carga estructura (1.5x sobrecarga)	MAT-3.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10255		6590					y1pmcRcGT6u6Hxu/J3EvIw	1		EQ-3.43			Instrumental de medición/topografía - Prueba de carga estructura (1.5x sobrecarga)	EQ-3.43		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10256		6590					nkg5tImeQ/yPy1cLAH1zUA	1		MO-3.44			Cuadrilla de Montaje (Rigger) - Control dimensional post montaje	MO-3.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10257		6590					PHfTdYcURHSJwhA/W98Jbg	1		MAT-3.44			Suministro: Control dimensional post montaje	MAT-3.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10258		6590					emfdlhmHS7WLiQp2jmVkrw	1		EQ-3.44			Camión grúa / grúa móvil - Control dimensional post montaje	EQ-3.44		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10259		6590					MZ1AeVdNQsOOIEd9BCjmpQ	1		MO-3.45			Proyectista (As-Built) - Entrega de planos as-built estructura	MO-3.45		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10260		6590					JhprvVv+RfSj2TZG0jaabA	1		MAT-3.45			Suministro: Entrega de planos as-built estructura	MAT-3.45		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10261		6590					EZkETZpSQaSJzYwsDq5UwQ	1		MO-4.01			Maestro Eléctrico - Tablero general BT 400A con protecciones	MO-4.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10262		6590					YYlt3VnMQEiTnS9U1EGe6w	1		MAT-4.01			Suministro: Tablero general BT 400A con protecciones	MAT-4.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10263		6590					xDtAxTTBQPaOGkd61kmkYQ	1		MO-4.02			Maestro Eléctrico - Tablero de alumbrado y tomacorrientes	MO-4.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10264		6590					pYhHq3EeQxypIiT5onGDAg	1		MAT-4.02			Suministro: Tablero de alumbrado y tomacorrientes	MAT-4.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10265		6590					dJG7Xl4ETAii0ttyNzqzUg	1		MO-4.03			Maestro Eléctrico - Tablero de fuerza motores	MO-4.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10266		6590					tFLE8BT8TfWu6BHhD9hgNA	1		MAT-4.03			Suministro: Tablero de fuerza motores	MAT-4.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10267		6590					bAYJTLuDQuCsKwInTYEb6Q	1		MO-4.04			Maestro Eléctrico - Canalización conduit EMT 3 pulg para circuito principal	MO-4.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10268		6590					KqwzlhKsSaOyU5V049EPqw	1		MAT-4.04			Suministro: Canalización conduit EMT 3 pulg para circuito principal	MAT-4.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10269		6590					Pe2b5b1nRu26SeoUqdhPzQ	1		MO-4.05			Maestro Eléctrico - Canalización conduit EMT 1 pulg alumbrado	MO-4.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10270		6590					DSClxDbqTDaJkiYZOBqhyg	1		MAT-4.05			Suministro: Canalización conduit EMT 1 pulg alumbrado	MAT-4.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10271		6590					c3BPzE5BQ7CRm/XudO0D+Q	1		MO-4.06			Maestro Eléctrico - Canalización conduit EMT 1/2 pulg tomacorrientes	MO-4.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10272		6590					0PdkIu9JRAuWctaYAWPn8w	1		MAT-4.06			Suministro: Canalización conduit EMT 1/2 pulg tomacorrientes	MAT-4.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10273		6590					FmKNQyaORc6OiaDKxI72tg	1		MO-4.07			Maestro Eléctrico - Cable poder 4x16mm² (alimentador principal)	MO-4.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10274		6590					fZ/eb/R4QYiXW7TRbC11og	1		MAT-4.07			Suministro: Cable poder 4x16mm² (alimentador principal)	MAT-4.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10275		6590					mnaRwnQpSCaIB1HWD1ZGKg	1		MO-4.08			Maestro Eléctrico - Cable XLPE 4x6mm² circuitos secundarios	MO-4.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10276		6590					m0uoNMfTSES5VNTbzOBvkA	1		MAT-4.08			Suministro: Cable XLPE 4x6mm² circuitos secundarios	MAT-4.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10277		6590					L0UuOljBTF6cen9vx0N4sg	1		MO-4.09			Maestro Eléctrico - Cable XLPE 3x2.5mm² alumbrado	MO-4.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10278		6590					gO8n3eF8T4SnF9NhNTA3Ng	1		MAT-4.09			Suministro: Cable XLPE 3x2.5mm² alumbrado	MAT-4.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10279		6590					huhH02jUQaC+rZYBfbfheA	1		MO-4.10			Maestro Eléctrico - Luminaria LED industrial highbay 200W UFO	MO-4.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10280		6590					e9jF31YwS1+82Q1jHmSzzQ	1		MAT-4.10			Suministro: Luminaria LED industrial highbay 200W UFO	MAT-4.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10281		6590					sPZWe3mXRdeZHnrD7FhDLQ	1		MO-4.11			Maestro Eléctrico - Luminaria LED fluorescente 2x36W oficinas	MO-4.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10282		6590					MKgbJ0ecSlGg1u0sUwPTMQ	1		MAT-4.11			Suministro: Luminaria LED fluorescente 2x36W oficinas	MAT-4.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10283		6590					u9hZUO/pTKes3UgHE6zPeg	1		MO-4.12			Maestro Eléctrico - Luminaria exterior LED 150W con poste	MO-4.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10284		6590					vWCzqFiDQSyTnp/6+QZQkg	1		MAT-4.12			Suministro: Luminaria exterior LED 150W con poste	MAT-4.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10285		6590					ClZQiHsYRVSYO3DstZl13g	1		MO-4.13			Maestro Eléctrico - Interruptores, tomacorrientes y accesorios	MO-4.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10286		6590					2dz/X+mpQW+35Z1Wdcgfxg	1		MAT-4.13			Suministro: Interruptores, tomacorrientes y accesorios	MAT-4.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10287		6590					ub0o5N24QlaimmL6u4DTmg	1		MO-4.14			Maestro Eléctrico - Sistema de puesta a tierra (red malla)	MO-4.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10288		6590					xrYvH4dPSEmtnw+Aj5LrDA	1		MAT-4.14			Suministro: Sistema de puesta a tierra (red malla)	MAT-4.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10289		6590					i0f/cmcIQAOiF4M6DpPbIw	1		MO-4.15			Inspector Eléctrico (SEC) - Medición de resistencia de tierra (<5?)	MO-4.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10290		6590					wEoIasTGSwS54NGGgLzm7g	1		MAT-4.15			Suministro: Medición de resistencia de tierra (<5?)	MAT-4.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10291		6590					jQFhhZn+TbOJnP0GhJp37g	1		EQ-4.15			Telurímetro - Medición de resistencia de tierra (<5?)	EQ-4.15		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10292		6590					QFv9kRg0Qyq2DmWdcOJHdw	1		MO-4.16			Maestro Eléctrico - Sistema UPS oficina administración 3KVA	MO-4.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10293		6590					PrjJe1w6RDeA4+OtzCYopA	1		MAT-4.16			Suministro: Sistema UPS oficina administración 3KVA	MAT-4.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10294		6590					aowPjlYhSkqvs+v+tYmhIg	1		EQ-4.16			Equipos y herramientas menores - Sistema UPS oficina administración 3KVA	EQ-4.16		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10295		6590					AvVojFRGQr2ejigDnF5jGg	1		MO-4.17			Maestro Eléctrico - Generador de emergencia 50KVA (arriendo)	MO-4.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10296		6590					gYK+e7IYQ6ehUZnj6nYv1A	1		MAT-4.17			Suministro: Generador de emergencia 50KVA (arriendo)	MAT-4.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10297		6590					RqGAiRwzRQyfqoYovcIDBQ	1		EQ-4.17			Generador 50KVA (arriendo) - Generador de emergencia 50KVA (arriendo)	EQ-4.17		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10298		6590					3q7rcV6hTPmgbub8mroIqA	1		MO-4.18			Inspector Eléctrico (SEC) - Revisión SEC y emisión informe	MO-4.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10299		6590					MpwVQ6NWSDCXIsyOj/tpUw	1		MAT-4.18			Suministro: Revisión SEC y emisión informe	MAT-4.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10300		6590					C3jN6lXZR6ONVk5oNZNvvQ	1		MO-4.19			Maestro Gasfíter / Sanitario - Red AP enterrada PVC PN10 ø63mm	MO-4.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10301		6590					2VMOzUnyRsC29CGFVmJkZg	1		MAT-4.19			Suministro: Red AP enterrada PVC PN10 ø63mm	MAT-4.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10302		6590					Os2oEupfQxGCxlQNli7cIA	1		MO-4.20			Maestro Gasfíter / Sanitario - Red AP interior PVC PN10 ø25mm	MO-4.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10303		6590					CB2/s7/TT1G626rtvasleg	1		MAT-4.20			Suministro: Red AP interior PVC PN10 ø25mm	MAT-4.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10304		6590					jr5fd3gQTYeexwNAoQLmTw	1		MO-4.21			Maestro Gasfíter / Sanitario - Artefactos sanitarios (WC+lavamanos+urinario)	MO-4.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10305		6590					vV1SraxhQOiDAC6STTb1GA	1		MAT-4.21			Suministro: Artefactos sanitarios (WC+lavamanos+urinario)	MAT-4.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10306		6590					y8LRNIsbTmSkSHQQDr7XPQ	1		MO-4.22			Maestro Gasfíter / Sanitario - Instalación duchas SSHH personal	MO-4.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10307		6590					2/5yWVYcSnqFXIYlkWL3AQ	1		MAT-4.22			Suministro: Instalación duchas SSHH personal	MAT-4.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10308		6590					TvYgP7GHSnC9Z5aOoa0QJg	1		MO-4.23			Maestro Gasfíter / Sanitario - Red alcantarillado interior PVC ø110mm	MO-4.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10309		6590					V5rr9cMkQ3eXniagboRkTw	1		MAT-4.23			Suministro: Red alcantarillado interior PVC ø110mm	MAT-4.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10310		6590					GP+UtaWjTGm3bGw5i9bU+w	1		MO-4.24			Maestro Gasfíter / Sanitario - Red alcantarillado exterior PVC ø160mm	MO-4.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10311		6590					AGXQmqnFRmu7tiVv+3pTZA	1		MAT-4.24			Suministro: Red alcantarillado exterior PVC ø160mm	MAT-4.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10312		6590					n1tTP2dZQHGR3BprItmJdA	1		MO-4.25			Maestro Gasfíter / Sanitario - Cámara de inspección aguas servidas	MO-4.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10313		6590					A9uxeNk/QRWVtIi08+yAXA	1		MAT-4.25			Suministro: Cámara de inspección aguas servidas	MAT-4.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10314		6590					WMushEQhT3SZPF0VberYLg	1		MO-4.26			Maestro Gasfíter / Sanitario - Trampa de grasas	MO-4.26		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10315		6590					AiJ3XwhyQ5Wq723TzNWmAQ	1		MAT-4.26			Suministro: Trampa de grasas	MAT-4.26		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10316		6590					E4d6d3DfQqSvvrEVvpVkqg	1		MO-4.27			Maestro Gasfíter / Sanitario - Instalación calefón 10L gas licuado	MO-4.27		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10317		6590					SNfg/FoOSPOzfDXExRJDqQ	1		MAT-4.27			Suministro: Instalación calefón 10L gas licuado	MAT-4.27		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10318		6590					gyiLkLf6SsGJ7UOC7HsVcw	1		MO-4.28			Maestro Gasfíter / Sanitario - Construcción SSHH + caseta prefabricada 15m²	MO-4.28		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10319		6590					DMWplrsbQwWoe6xCQU7G1g	1		MAT-4.28			Suministro: Construcción SSHH + caseta prefabricada 15m²	MAT-4.28		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10320		6590					FiFktDRYSx699f2VHVbqgg	1		MO-4.29			Instalador Protección Contra Incendio - Red húmeda rociadores NFPA-13 ø63mm	MO-4.29		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10321		6590					JDcXTRHkT92XgdEMNt1AAw	1		MAT-4.29			Suministro: Red húmeda rociadores NFPA-13 ø63mm	MAT-4.29		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10322		6590					kiRQmt2bRS6Yz9bY7fA+zA	1		MO-4.30			Instalador Protección Contra Incendio - Rociadores automáticos estándar 68°C	MO-4.30		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10323		6590					0KCXboCSRGSHUX4e/7jAWw	1		MAT-4.30			Suministro: Rociadores automáticos estándar 68°C	MAT-4.30		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10324		6590					x6uB2LhZTnWU1hJtuglPFQ	1		EQ-4.30			Equipo de prueba hidráulica - Rociadores automáticos estándar 68°C	EQ-4.30		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10325		6590					OFcMASeeR9Kk6CK01PKvnQ	1		MO-4.31			Instalador Protección Contra Incendio - Central de detección incendio 8 zonas	MO-4.31		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10326		6590					5gRqLpf/T0aX6AMv64CVUw	1		MAT-4.31			Suministro: Central de detección incendio 8 zonas	MAT-4.31		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10327		6590					T7sWk9uQTOmv7CguRQ3Gzw	1		EQ-4.31			Instrumental de comisionamiento - Central de detección incendio 8 zonas	EQ-4.31		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10328		6590					QnT/Bz0ySmSH2iZjnSnpBg	1		MO-4.32			Instalador Protección Contra Incendio - Detectores de humo fotoeléctricos	MO-4.32		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10329		6590					AHZkSmQhTZqAbGSExAgneA	1		MAT-4.32			Suministro: Detectores de humo fotoeléctricos	MAT-4.32		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10330		6590					4GRgKkoRSOSqjAUdds57Gw	1		EQ-4.32			Instrumental de comisionamiento - Detectores de humo fotoeléctricos	EQ-4.32		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10331		6590					gfMP1EoOQcCa12tiOoy57w	1		MO-4.33			Instalador Protección Contra Incendio - Detectores temperatura 58°C	MO-4.33		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10332		6590					5rYctdKJST2zsg9HGnWStQ	1		MAT-4.33			Suministro: Detectores temperatura 58°C	MAT-4.33		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10333		6590					f77QHHfRTmy4KWyKuuHAxQ	1		EQ-4.33			Instrumental de comisionamiento - Detectores temperatura 58°C	EQ-4.33		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10334		6590					axs9xh16Q9qgVI0OWISs1w	1		MO-4.34			Instalador Protección Contra Incendio - Pulsadores manuales de alarma	MO-4.34		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10335		6590					ZlivvyljSniIvKI7ZHsX2g	1		MAT-4.34			Suministro: Pulsadores manuales de alarma	MAT-4.34		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10336		6590					G5i1cTDkSyO8kp3TamkaPg	1		MO-4.35			Instalador Protección Contra Incendio - Sirenas estroboscópicas de alarma	MO-4.35		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10337		6590					XkhOA65tRuqRjrOaqfu/MA	1		MAT-4.35			Suministro: Sirenas estroboscópicas de alarma	MAT-4.35		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10338		6590					PCVIDMR2R/ekjCzMOn2+fA	1		MO-4.36			Instalador Protección Contra Incendio - Gabinetes contra incendio 1.5 pulg completos	MO-4.36		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10339		6590					ovE6xmmqQ8GDEvXM2P/wpg	1		MAT-4.36			Suministro: Gabinetes contra incendio 1.5 pulg completos	MAT-4.36		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10340		6590					NBgLMDrFQVmKYV71viqgOg	1		MO-4.37			Instalador Protección Contra Incendio - Extintores PQS 12kg ABC	MO-4.37		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10341		6590					joewv+WSTPiNmvYzuTkLHA	1		MAT-4.37			Suministro: Extintores PQS 12kg ABC	MAT-4.37		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10342		6590					vD5IzsQyRZOrZpv++X9DsA	1		MO-4.38			Instalador Protección Contra Incendio - Estanque de reserva agua CI 20m³	MO-4.38		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10343		6590					YbNkJh5xSzaoqmkuvTMJ6w	1		MAT-4.38			Suministro: Estanque de reserva agua CI 20m³	MAT-4.38		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10344		6590					676+Z2JyTSWD74vLC8lViQ	1		MO-4.39			Instalador Protección Contra Incendio - Grupo de presión CI motor-bomba 30HP	MO-4.39		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10345		6590					qsqvI1eASLiVYsNDWmrE4Q	1		MAT-4.39			Suministro: Grupo de presión CI motor-bomba 30HP	MAT-4.39		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10346		6590					xr9kML1DQxChgD0QlssugA	1		EQ-4.39			Equipos y herramientas menores - Grupo de presión CI motor-bomba 30HP	EQ-4.39		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10347		6590					jRHcBjE9QGmknbAYWjfuJw	1		MO-4.40			Instalador Protección Contra Incendio - Prueba hidráulica red CI (1.5x presión trabajo)	MO-4.40		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10348		6590					gPwA+6U+SluM1WQAzhElNw	1		MAT-4.40			Suministro: Prueba hidráulica red CI (1.5x presión trabajo)	MAT-4.40		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10349		6590					9u3VyQS5TDmxzBFefIsHJA	1		EQ-4.40			Equipo de prueba hidráulica (bomba) - Prueba hidráulica red CI (1.5x presión trabajo)	EQ-4.40		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10350		6590					bxjjpf5XRTWbsLBU6/2agg	1		MO-4.41			Instalador de Ventilación/Climatización - Extractor industrial axial 15.000m³/h	MO-4.41		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10351		6590					qsV3BJQzSnGXpYNJIZfWkQ	1		MAT-4.41			Suministro: Extractor industrial axial 15.000m³/h	MAT-4.41		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10352		6590					ObmH8StOR7OizPnNGO9bQA	1		EQ-4.41			Plataforma elevadora / izaje - Extractor industrial axial 15.000m³/h	EQ-4.41		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10353		6590					AFSg3nQ2RTWi2MGFcYN3fw	1		MO-4.42			Instalador de Ventilación/Climatización - Ventiladores de inyección 8.000m³/h	MO-4.42		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10354		6590					pl2UjWbiQQaLEN9jsOfwgA	1		MAT-4.42			Suministro: Ventiladores de inyección 8.000m³/h	MAT-4.42		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10355		6590					q0UGmgdrTg2dw3YW2ktbEw	1		EQ-4.42			Plataforma elevadora / izaje - Ventiladores de inyección 8.000m³/h	EQ-4.42		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10356		6590					CP6PsnVHS5GoBfPD/NGMUA	1		MO-4.43			Instalador de Ventilación/Climatización - Ductos metálicos galvanizados ventilación	MO-4.43		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10357		6590					oAxfg2oiTjiDYwtRNM83wQ	1		MAT-4.43			Suministro: Ductos metálicos galvanizados ventilación	MAT-4.43		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10358		6590					A/ajmcHMTwudSbhdHZ2V/Q	1		MO-4.44			Instalador de Ventilación/Climatización - Rejillas de admisión aire fresco fachada	MO-4.44		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10359		6590					ED+y7q5BTh+3G8yty52FiA	1		MAT-4.44			Suministro: Rejillas de admisión aire fresco fachada	MAT-4.44		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10360		6590					Q+KEAt4RT3SnhTSAyn7rHw	1		MO-4.45			Instalador de Ventilación/Climatización - Control automático ventilación (termostato)	MO-4.45		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10361		6590					Oh/QrsU1RDmf6W2FLCwTsA	1		MAT-4.45			Suministro: Control automático ventilación (termostato)	MAT-4.45		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10362		6590					Ex/iAjJNR9C5ua2h1rhJzg	1		MO-4.46			Instalador de Ventilación/Climatización - Sistema extracción gases batería carga montacarga	MO-4.46		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10363		6590					0/hum2GpS2KuNUSkLz5IKg	1		MAT-4.46			Suministro: Sistema extracción gases batería carga montacarga	MAT-4.46		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10364		6590					D9tU1sD7SiqbiU7WWOII+w	1		MO-4.47			Especialista en Comisionamiento - Pruebas y comisionamiento instalaciones EE	MO-4.47		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10365		6590					P1ZMEoqPQiqTRSmZEM7b4A	1		MAT-4.47			Suministro: Pruebas y comisionamiento instalaciones EE	MAT-4.47		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10366		6590					r/pIcQ9ZQaSZ2+m3kKkV4Q	1		MO-4.48			Maestro Gasfíter / Sanitario - Pruebas y comisionamiento SSHH	MO-4.48		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10367		6590					uSOow5JDSZCY15J2wryUow	1		MAT-4.48			Suministro: Pruebas y comisionamiento SSHH	MAT-4.48		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10368		6590					JLMldm2pQoiIPkzvmSiEEw	1		MO-4.49			Proyectista (As-Built) - Planos as-built instalaciones	MO-4.49		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10369		6590					OpKxSaArSE+K5X0xWXiRGw	1		MAT-4.49			Suministro: Planos as-built instalaciones	MAT-4.49		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10370		6590					HojSvBYyTISRWG8Ra4hirQ	1		MO-4.50			Proyectista (As-Built) - Informe final de instalaciones y ensayos	MO-4.50		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10371		6590					66aFqzcTQxuFghM9LS8QlA	1		MAT-4.50			Suministro: Informe final de instalaciones y ensayos	MAT-4.50		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10372		6590					RI4Jl9DGRpKz24WvXYQBzA	1		MO-5.01			Instalador de Estanterías (Racks) - Estantería metálica pesada 5 niveles 1000kg/niv	MO-5.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10373		6590					FioyjjqyQamEJg9Od5wrVg	1		MAT-5.01			Suministro: Estantería metálica pesada 5 niveles 1000kg/niv	MAT-5.01		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10374		6590					nrNM3XfiRdekgg08WOkGww	1		MO-5.02			Instalador de Estanterías (Racks) - Estantería metálica mediana 3 niveles 500kg/niv	MO-5.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10375		6590					SVF4F68vQxKHtNquIFU/dw	1		MAT-5.02			Suministro: Estantería metálica mediana 3 niveles 500kg/niv	MAT-5.02		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10376		6590					nYO1tzvTSN24M8bg4XSIuw	1		MO-5.03			Instalador de Estanterías (Racks) - Estantería para neumáticos y partes largas	MO-5.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10377		6590					4yzS5wN3QcWKS2jS7pI5hw	1		MAT-5.03			Suministro: Estantería para neumáticos y partes largas	MAT-5.03		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10378		6590					J/PYqyF0QzOPZo+pHzbPbg	1		MO-5.04			Cuadrilla Montaje Equipamiento - Mesones metálicos de trabajo 200x80cm	MO-5.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10379		6590					eq90YWE6SE+jhU7tSj/sNQ	1		MAT-5.04			Suministro: Mesones metálicos de trabajo 200x80cm	MAT-5.04		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10380		6590					jQMPDvdsQpiDzvnfHubMUA	1		MO-5.05			Cuadrilla Montaje Equipamiento - Casilleros personal (4 puertas)	MO-5.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10381		6590					XUYkjPAjSW+bU4GSTmb9pg	1		MAT-5.05			Suministro: Casilleros personal (4 puertas)	MAT-5.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10382		6590					1mHfuEJ2S+eU8GwXDmb3ww	1		MO-5.06			Instalador de Señalética - Señalética de seguridad vinilo reflectante	MO-5.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10383		6590					Eius7CaFQx2wayjUEoc9Sg	1		MAT-5.06			Suministro: Señalética de seguridad vinilo reflectante	MAT-5.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10384		6590					I63hDIa3TsKJfBHMTQxx8w	1		MO-5.07			Instalador de Señalética - Señalética de almacenamiento y zonas	MO-5.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10385		6590					FdT/3SW3Rama075svZwbHQ	1		MAT-5.07			Suministro: Señalética de almacenamiento y zonas	MAT-5.07		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10386		6590					LBRoLeXdQcWAyVL3WbKwWw	1		MO-5.08			Instalador de Señalética - Señalética de emergencia y evacuación	MO-5.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10387		6590					pZR5kWkMQ1Kv5iZ/lHz88A	1		MAT-5.08			Suministro: Señalética de emergencia y evacuación	MAT-5.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10388		6590					qa7LOXksSzGAYu/idcqK2A	1		MO-5.09			Pintor (Demarcación) - Pintura de señalética piso (vías tránsito)	MO-5.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10389		6590					scjKVxAURIyfFkttEOr4vg	1		MAT-5.09			Suministro: Pintura de señalética piso (vías tránsito)	MAT-5.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10390		6590					bBGRCDqhTdmS7eccDeoiYg	1		EQ-5.09			Equipo airless + andamios - Pintura de señalética piso (vías tránsito)	EQ-5.09		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10391		6590					lhKXaR6cQie50vvo+t9sHA	1		MO-5.10			Técnico en Electrónica/CCTV - Cámaras CCTV domo 4K interior	MO-5.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10392		6590					To8+rgsSQaWcF2mpddpJ7Q	1		MAT-5.10			Suministro: Cámaras CCTV domo 4K interior	MAT-5.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10393		6590					AZtKEuMlTZGZ8peRWdJr7w	1		MO-5.11			Técnico en Electrónica/CCTV - Cámaras CCTV exterior PTZ 4K	MO-5.11		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10394		6590					qoGEQOt8TympZsnMTDIfpA	1		MAT-5.11			Suministro: Cámaras CCTV exterior PTZ 4K	MAT-5.11		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10395		6590					ouDpJWe3QkeWQzDIZKutNQ	1		MO-5.12			Técnico en Electrónica/CCTV - DVR 16 canales 4K + disco 8TB	MO-5.12		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10396		6590					TMYSY+6WQtGlmEm40m2E5Q	1		MAT-5.12			Suministro: DVR 16 canales 4K + disco 8TB	MAT-5.12		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10397		6590					H9e23XuAR96CL5eiacUN3w	1		MO-5.13			Técnico en Electrónica/CCTV - Monitor 55 pulg sala de control	MO-5.13		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10398		6590					NV9pToSbSbmiSJd/1FwSwg	1		MAT-5.13			Suministro: Monitor 55 pulg sala de control	MAT-5.13		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10399		6590					3hlr9S4RTLOhCODV7wxxCw	1		MO-5.14			Técnico en Electrónica/Seguridad - Sistema control de acceso biométrico	MO-5.14		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10400		6590					G6FiAFaHSTWntdGKudi7JA	1		MAT-5.14			Suministro: Sistema control de acceso biométrico	MAT-5.14		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10401		6590					tKTVFoP2QlW+nlqhLk6QDQ	1		MO-5.15			Técnico en Electrónica/Seguridad - Torniquete de acceso peatonal	MO-5.15		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10402		6590					TAq36qL+TcWG5BUHnnELTA	1		MAT-5.15			Suministro: Torniquete de acceso peatonal	MAT-5.15		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10403		6590					Y+51GBJvTmmaFYV5MmrWbg	1		MO-5.16			Técnico en Electrónica/Seguridad - Barrera vehicular automática	MO-5.16		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10404		6590					e7oUzDawRSibWDvPD+oOgQ	1		MAT-5.16			Suministro: Barrera vehicular automática	MAT-5.16		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10405		6590					JLclQ+dCSxW0iu8RFh7jhA	1		MO-5.17			Cuadrilla Montaje Equipamiento - Mobiliario oficina bodegaje (escritorios+sillas)	MO-5.17		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10406		6590					GVrknfOiRbmarGVmz/DrzA	1		MAT-5.17			Suministro: Mobiliario oficina bodegaje (escritorios+sillas)	MAT-5.17		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10407		6590					Y4CnOmVWQC2XqsoXKxinRg	1		MO-5.18			Técnico en Redes/TI - Computadores gestión bodega (3 equipos)	MO-5.18		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10408		6590					c6FW93gzSUil9ovGVUyH1A	1		MAT-5.18			Suministro: Computadores gestión bodega (3 equipos)	MAT-5.18		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10409		6590					/YNE2MkCTZmGj3MtOjcFFg	1		MO-5.19			Técnico en Redes/TI - Impresora código de barras + lectores	MO-5.19		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10410		6590					X6Ur8rX0RPia50mwK3BTgQ	1		MAT-5.19			Suministro: Impresora código de barras + lectores	MAT-5.19		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10411		6590					0oXpxPd6Rlub0T2fnsnrYQ	1		MO-5.20			Técnico en Redes/TI - Instalación sistema WiFi industrial	MO-5.20		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10412		6590					7Kjphd1eT6qlIY5vMRCwTA	1		MAT-5.20			Suministro: Instalación sistema WiFi industrial	MAT-5.20		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10413		6590					zNwHPSYGSl64+YHCKfw5WQ	1		MO-5.21			Pintor - Pintura interior muros SSHH	MO-5.21		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10414		6590					O+b1i0R5QpO5I8mV/895HQ	1		MAT-5.21			Suministro: Pintura interior muros SSHH	MAT-5.21		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10415		6590					tokKSRViSUWiMbUQMBZREg	1		EQ-5.21			Equipo airless + andamios - Pintura interior muros SSHH	EQ-5.21		1	QT_Hour		Y	Y	Y	N	1		RT_Equip			Y	Y	
+%R	10416		6590					Ux4zEx/zTCupo8UAuuERLA	1		MO-5.22			Maestro Ceramista - Revestimiento cerámico SSHH	MO-5.22		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10417		6590					TlO7hPbhTXeNbKhsGXRL7w	1		MAT-5.22			Suministro: Revestimiento cerámico SSHH	MAT-5.22		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10418		6590					afWeNwsIQWCNWhYs1w+5rg	1		MO-5.23			Instalador de Cielos - Cielo falso planchas yeso-cartón oficinas	MO-5.23		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10419		6590					O4VH5lE1QRSnwlI68gpiDg	1		MAT-5.23			Suministro: Cielo falso planchas yeso-cartón oficinas	MAT-5.23		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10420		6590					JUn9cNCkTlSbMdxsty6Jzg	1		MO-5.24			Cuadrilla de Aseo y Cierre - Limpieza general de obra	MO-5.24		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10421		6590					5xUQqWU5TWCoTDeBrVs8rw	1		MAT-5.24			Suministro: Limpieza general de obra	MAT-5.24		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10422		6590					8LyJx5FHQ/mgOFuDdIx93Q	1		MO-5.25			Cuadrilla de Aseo y Cierre - Retiro de instalaciones de faenas	MO-5.25		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10423		6590					TLjFkAcQTCuaChvYYKS/vA	1		MAT-5.25			Suministro: Retiro de instalaciones de faenas	MAT-5.25		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10424		6590					RUaLGsOXTaCQ62kM+Z9cQA	1		MO-6.01			Director de Proyecto - Dirección de proyecto (DP) - mensual	MO-6.01		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10425		6590					91+OoJa9QeiuBiVinrg40A	1		MO-6.02			Administrador de Contrato - Administración de contratos	MO-6.02		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10426		6590					6QjXckmQRkuRry9Wnd9a/Q	1		MO-6.03			Jefe de Calidad (QA/QC) - Gestión de calidad (inspecciones + libros)	MO-6.03		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10427		6590					O1JcUtGnQ8eVtqwdjuQ2nQ	1		MO-6.04			Experto en Prevención de Riesgos - Prevención de riesgos en obra	MO-6.04		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10428		6590					bdc2sbv+TEa8AcqrNLDcOQ	1		MO-6.05			Profesional de Control de Proyecto - Informes de avance mensuales al cliente	MO-6.05		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10429		6590					Vj4u5xYZRL2JDO++ayggSw	1		MAT-6.05			Suministro: Informes de avance mensuales al cliente	MAT-6.05		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10430		6590					ZLURg789QIuY4wroJAmc0g	1		MO-6.06			Jefe de Terreno - Reuniones de coordinación semanal	MO-6.06		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10431		6590					ax0HfyJfQi6RoBqBeAVr+Q	1		MAT-6.06			Suministro: Reuniones de coordinación semanal	MAT-6.06		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10432		6590					+2vge17wTA6hnqen7IHduQ	1		MO-6.07			Profesional de Control de Proyecto - Control de costos y EVM mensual	MO-6.07		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10433		6590					F8PS5ablTBaqlnXBqcx2eA	1		MO-6.08			Profesional de Cierre - Tramitación recepción definitiva DOM	MO-6.08		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10434		6590					/zyMTwtlRBK8L9cBeWkIRw	1		MAT-6.08			Suministro: Tramitación recepción definitiva DOM	MAT-6.08		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10435		6590					VF64Pj4SRS+3Dcwr8axegA	1		MO-6.09			Profesional de Cierre - Entrega dossier técnico final	MO-6.09		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10436		6590					yKlw8mh+QESOESIx/xKZCw	1		MAT-6.09			Suministro: Entrega dossier técnico final	MAT-6.09		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
+%R	10437		6590					X5/BNwseRPiVZwJoYp013Q	1		MO-6.10			Profesional de Cierre - Acta de entrega y recepción conforme	MO-6.10		1	QT_Hour		Y	Y	Y	N	1		RT_Labor			Y	Y	
+%R	10438		6590					IVL4pCwWTIGhyMUfuzVCbQ	1		MAT-6.10			Suministro: Acta de entrega y recepción conforme	MAT-6.10		1	QT_Each		Y	Y	Y	N	1		RT_Mat			Y	Y	
 %T	RSRCRATE
 %F	rsrc_rate_id	rsrc_id	max_qty_per_hr	cost_per_qty	start_date	shift_period_id	cost_per_qty2	cost_per_qty3	cost_per_qty4	cost_per_qty5
 %R	20001	10001	1	12000.0000	2026-01-01 00:00					
