@@ -73,5 +73,18 @@ export const projects: Project[] = [
       "Infraestructura Entel instalada"
     ],
     technologies: ["Telecomunicaciones", "Estructuras", "Minería", "Coordinación de Equipos"]
+  },
+  {
+    id: 6,
+    title: "Galpón Industrial Minería",
+    description: "Elaboración de EDT/WBS y programación integral con Primavera P6 para galpón industrial minero, desde ingeniería y permisos hasta cierre del proyecto. Control de presupuesto, plazos y curva de avance (Curva S).",
+    role: "Planificador / Programador de Obra",
+    metrics: [
+      "Presupuesto total: $1.000 millones CLP",
+      "25.000 HH programadas",
+      "6 fases EDT/WBS (Ingeniería a Cierre)",
+      "Programa de 7 meses en Primavera P6"
+    ],
+    technologies: ["Primavera P6", "EDT/WBS", "Excel Avanzado", "Curva S", "Presupuestos"]
   }
 ];
