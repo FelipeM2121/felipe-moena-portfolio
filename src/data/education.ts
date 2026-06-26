@@ -22,16 +22,16 @@ export const education: Education[] = [
     description: "Formación técnica en obras civiles y supervisión"
   },
   {
+    id: 4,
+    degree: "Diplomado Planificación y Gestión de Proyectos en Primavera P6",
+    institution: "Pontificia Universidad Católica de Valparaíso",
+    year: "2026"
+  },
+  {
     id: 3,
     degree: "Bootcamp Python y Machine Learning",
     institution: "Beca SONDA Skillnest",
     year: "2026",
     description: "Formación intensiva en programación Python y modelos de Machine Learning"
-  },
-  {
-    id: 4,
-    degree: "Diplomado Planificación y Gestión de Proyectos en Primavera P6",
-    institution: "Pontificia Universidad Católica de Valparaíso",
-    year: "2026"
   }
 ];
