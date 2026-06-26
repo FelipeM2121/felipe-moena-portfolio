@@ -27,5 +27,11 @@ export const education: Education[] = [
     institution: "Beca SONDA Skillnest",
     year: "2026",
     description: "Formación intensiva en programación Python y modelos de Machine Learning"
+  },
+  {
+    id: 4,
+    degree: "Diplomado Planificación y Gestión de Proyectos en Primavera P6",
+    institution: "Pontificia Universidad Católica de Valparaíso",
+    year: "2026"
   }
 ];
