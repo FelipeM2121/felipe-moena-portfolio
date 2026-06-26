@@ -15,13 +15,6 @@ export const education: Education[] = [
     description: "Profesional especializado en gestión de proyectos de construcción"
   },
   {
-    id: 2,
-    degree: "Tecnólogo en Construcción",
-    institution: "Universidad de Santiago de Chile (USACH)",
-    year: "2008",
-    description: "Formación técnica en obras civiles y supervisión"
-  },
-  {
     id: 4,
     degree: "Diplomado Planificación y Gestión de Proyectos en Primavera P6",
     institution: "Pontificia Universidad Católica de Valparaíso",
@@ -33,5 +26,12 @@ export const education: Education[] = [
     institution: "Beca SONDA Skillnest",
     year: "2026",
     description: "Formación intensiva en programación Python y modelos de Machine Learning"
+  },
+  {
+    id: 2,
+    degree: "Tecnólogo en Construcción",
+    institution: "Universidad de Santiago de Chile (USACH)",
+    year: "2008",
+    description: "Formación técnica en obras civiles y supervisión"
   }
 ];
